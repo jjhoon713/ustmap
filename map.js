@@ -14,13 +14,13 @@ function readTextFile(file) {
 }
 
 function getBuilding() {
-  var buildings = readTextFile('data/_').split('\n');
+  var buildings = readTextFile('data/a').split('\n');
   return buildings;
 }
 
 function getFloorIds() {
   result = [];
-  buildings = readTextFile('data/_').split('\n');
+  buildings = readTextFile('data/a').split('\n');
   for (i = 0; i < buildings.length; i++) {
     floors = getFloors(i);
     for (j = 0; j < floors.length; j++) {

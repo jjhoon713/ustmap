@@ -1,0 +1,273 @@
+-0.0019042037184701238
+-0.07017384031
+0.0018359955110204122
+-87.4970332493
+p0;ROOM 5345;classroom;;721.0,900.5;null;null
+p1;ROOM 5342;classroom;;627.5,994.5;null;null
+p2;ROOM 5341;classroom;;629.0,1035.5;null;null
+p3;ROOM 5340;classroom;;628.0,1075.0;null;null
+p4;ROOM 5339;classroom;;627.5,1126.5;null;null
+p6;ROOM 5337;classroom;;627.0,1221.5;null;null
+p7;ROOM 5336;classroom;;630.0,1263.5;null;null
+p8;ROOM 5335;classroom;;629.0,1323.0;null;null
+p9;ROOM 5334;classroom;;639.0,1396.5;null;null
+p10;ROOM 5344;classroom;;753.0,1314.5;null;null
+p11;ROOM 5343;classroom;;764.5,1367.0;null;null
+p12;ROOM 5353;classroom;;974.5,756.0;null;null
+p13;ROOM 5355;classroom;;1076.0,759.0;null;null
+p14;ROOM 5352;classroom;;972.0,898.5;null;null
+p15;ROOM 5350;classroom;;1098.0,899.5;null;null
+p16;ROOM 5362;null;null;1138.0,899.0;null;null
+p17;ROOM 5363;classroom;;1179.5,900.0;null;null
+p18;ROOM 5364;classroom;;1222.0,899.5;null;null
+p19;ROOM 5365;classroom;;1263.5,899.0;null;null
+p20;ROOM 5366;classroom;;1356.5,773.0;null;null
+p21;ROOM 5367;classroom;;1408.0,775.0;null;null
+p22;ROOM 5368;classroom;;1452.0,774.5;null;null
+p23;ROOM 5369;classroom;;1493.0,774.5;null;null
+p24;ROOM 5406;classroom;;1283.5,994.0;null;null
+p25;ROOM 5407;classroom;;1283.5,1068.0;null;null
+p26;ROOM 5405;;;1428.5,1128.0;null;null
+p27;ROOM 5404;;;1430.5,1192.5;null;null
+p28;ROOM 5303;;;1430.0,1292.5;null;null
+p29;ROOM 5402;;;1419.5,1389.5;null;null
+p30;ROOM 5401;;;1356.0,1368.5;null;null
+p31;ROOM 5410;;;1545.0,763.0;null;null
+p32;ROOM 5411;;;1673.0,774.5;null;null
+p33;ROOM 5412;;;1742.5,774.5;null;null
+p34;ROOM 5413;;;1743.5,847.5;null;null
+p35;ROOM 5435;;;1806.0,784.0;null;null
+p36;ROOM 5441;;;1847.5,774.5;null;null
+p37;ROOM 5442;;;1888.0,772.0;null;null
+p38;ROOM 5436;;;1816.0,869.5;null;null
+p39;ROOM 5437;;;1815.0,911.5;null;null
+p40;ROOM 5438;;;1858.0,922.0;null;null
+p41;ROOM 5439;;;1899.5,912.5;null;null
+p42;ROOM 5440;;;1899.5,869.5;null;null
+p43;ROOM 5443;;;1930.5,784.5;null;null
+p44;ROOM 5447;;;1982.0,763.0;null;null
+p45;ROOM 5448;;;2022.5,753.0;null;null
+p46;ROOM 5449;;;2064.5,763.5;null;null
+p47;ROOM 5450;;;2065.5,808.0;null;null
+p48;ROOM 5446;;;1981.5,806.0;null;null
+p49;ROOM 5444;;;1962.0,868.5;null;null
+p50;ROOM 5445;;;1962.0,909.0;null;null
+p51;ROOM 5415;;;1616.5,975.0;null;null
+p52;ROOM 5416;;;1616.5,1056.5;null;null
+p53;ROOM 5417;;;1616.5,1125.5;null;null
+p54;ROOM 5418;;;1618.0,1189.5;null;null
+p55;ROOM 5418A;;;1763.0,1315.5;null;null
+p56;ROOM 5420;;;1712.0,1390.0;null;null
+p57;ROOM 5419;;;1617.5,1388.0;null;null
+p58;ROOM 5332;;;636.5,1458.5;null;null
+p59;ROOM 5331;;;638.5,1501.75;null;null
+p60;ROOM 5014;office;STUDENT AFFAIR OFFICE, CAREER CENTER, HEAD OFFICE;802.5,1549.5;null;null
+p61;ROOM 5016;office;5016A, 5016B;879.25,1568.25;null;null
+p62;ROOM 5017;office;;956.5,1620.75;null;null
+p63;ROOM 5019;office;;963.5,1482.0;null;null
+p64;ROOM 5018;office;;958.0,1534.5;null;null
+p65;ROOM 5020;office;;1013.75,1490.0;null;null
+p66;ROOM 5021;office;;1024.75,1544.25;null;null
+p67;ROOM 5022;office;;999.0,1616.0;null;null
+p68;ROOM 5023;office;;1049.75,1616.0;null;null
+p69;ROOM 5024;office;;1053.75,1490.5;null;null
+p70;ROOM 5025;office;;1094.5,1493.0;null;null
+p71;ROOM 5029;office;;1099.0,1621.0;null;null
+p72;ROOM 5026;office;;1134.25,1499.0;null;null
+p73;ROOM 5030;office;;1136.25,1623.25;null;null
+p74;ROOM 5031;office;;1170.75,1628.75;null;null
+p75;ROOM 5028;office;;1174.0,1503.75;null;null
+p76;ROOM 5015;office;;1229.0,1536.25;null;null
+p77;ROOM 5032;office;;1212.25,1639.25;null;null
+p78;ROOM 5351;office;FACILITIES MANAGEMENT OFFICE;1045.5,841.0;null;null
+p79;ROOM 5036;;;1430.25,1586.25;null;null
+p80;ROOM 5043;;;1482.0,1615.0;null;null
+p81;ROOM 5038;;;1575.25,1674.75;null;null
+p82;ROOM 5039;;;1606.5,1699.25;null;null
+p83;ROOM 5040;;;1637.75,1724.0;null;null
+p84;ROOM 5041;;;1666.5,1754.0;null;null
+p85;ROOM 5453;;;2116.0,786.0;null;null
+p86;ROOM 5454;;;2158.5,774.0;null;null
+p87;ROOM 5451;;;2084.5,870.0;null;null
+p88;ROOM 5452;;;2087.5,910.5;null;null
+p89;ROOM 5455;;;2150.0,868.5;null;null
+p90;ROOM 5456;;;2150.0,910.0;null;null
+p91;ROOM 5457;;;2189.0,920.5;null;null
+p92;ROOM 5458;;;2230.0,911.5;null;null
+p93;ROOM 5459;;;2231.0,867.5;null;null
+p94;ROOM 5460;;;2199.5,784.0;null;null
+p95;ROOM 5461;;;2243.5,784.0;null;null
+p96;ROOM 5462;;;2294.0,806.5;null;null
+p97;ROOM 5463;;;2293.5,763.0;null;null
+p98;ROOM 5470;;;2293.5,869.0;null;null
+p99;ROOM 5471;;;2293.0,911.5;null;null
+p100;ROOM 5472;;;2293.5,951.5;null;null
+p101;ROOM 5473;;;2294.0,993.0;null;null
+p102;ROOM 5478;;;2292.0,1033.0;null;null
+p103;ROOM 5479;;;2294.0,1077.0;null;null
+p104;ROOM 5483;;;2294.5,1119.5;null;null
+p105;ROOM 5486;;;2294.0,1191.0;null;http://seatplan.ust.hk/?room=5486
+p106;ROOM 5487;;http://seatplan.ust.hk/?room=5487;2294.5,1293.0;null;null
+p107;ROOM 5494;;;2346.0,1408.0;null;null
+p108;ROOM 5492;;;2304.5,1367.0;null;null
+p109;ROOM 5495;;;2293.5,1412.5;null;null
+p110;ROOM 5493;;;2407.5,1390.0;null;http://seatplan.ust.hk/?room=5493
+p111;ROOM 5491;;;2378.0,1304.5;null;null
+p112;ROOM 5490;;;2431.0,1292.5;null;null
+p113;ROOM 5489;;;2429.0,1233.0;null;null
+p114;ROOM 5488;;;2379.0,1221.5;null;null
+p115;ROOM 5484;;;2418.0,1181.0;null;null
+p116;ROOM 5485;;;2366.5,1147.5;null;null
+p117;ROOM 5482;;;2418.5,1140.0;null;null
+p118;ROOM 5481;;;2428.5,1087.5;null;null
+p119;ROOM 5480;;;2376.5,1077.0;null;null
+p120;ROOM 5477;;;2376.5,1033.0;null;null
+p121;ROOM 5476;;;2430.0,1023.0;null;null
+p122;ROOM 5475;;;2429.0,963.0;null;null
+p123;ROOM 5474;;;2378.0,950.5;null;null
+p124;ROOM 5466;office;DEPARTMENT OF BIOLOGY, DEPARTMENT OF BIOLOGY ROOM 5466;2417.5,815.0;null;null
+p125;ROOM 5517;;;2681.0,784.5;null;null
+p126;ROOM 5516;;;2681.0,856.5;null;null
+p127;ROOM 5518;;;2754.0,764.0;null;null
+p128;ROOM 5519;;;2751.5,807.5;null;null
+p129;ROOM 5515;;;2753.0,870.5;null;null
+p130;ROOM 5514;;;2753.5,913.5;null;null
+p131;ROOM 5510;;;2636.5,984.5;null;http://seatplan.ust.hk/?room=5510
+p132;ROOM 5509;;;2753.5,983.5;null;null
+p133;ROOM 5508;;;2637.5,1088.0;null;http://seatplan.ust.hk/?room=5508
+p134;ROOM 5507;;;2754.0,1087.5;null;http://seatplan.ust.hk/?room=5507
+p135;ROOM 5506;;;2636.0,1193.0;null;http://seatplan.ust.hk/?room=5506
+p136;ROOM 5505;;;2751.0,1192.5;null;http://seatplan.ust.hk/?room=5505
+p137;ROOM 5504;;;2636.0,1284.0;null;http://seatplan.ust.hk/?room=5504
+p138;ROOM 5503;;;2752.5,1295.5;null;http://seatplan.ust.hk/?room=5503
+p139;ROOM 5501;;;2638.5,1390.0;null;http://seatplan.ust.hk/?room=5501
+p140;ROOM 5502;;;2701.5,1388.5;null;null
+p141;ROOM 5502A;;;2752.5,1368.0;null;null
+p142;ROOM 5502B;;;2753.0,1410.0;null;null
+p143;LIFT 25;lift;;2557.5,969.0;null;null
+p144;LIFT 26;lift;;2560.0,1005.5;null;null
+p145;ROOM 5520;;;2804.5,779.0;null;null
+p146;ROOM 5521;;;2815.0,865.5;null;null
+p147;ROOM 5522;;;2815.5,905.5;null;null
+p148;ROOM 5526;;;2847.5,771.0;null;null
+p149;ROOM 5527;;;2888.5,769.0;null;null
+p150;ROOM 5525;;;2898.0,864.0;null;null
+p151;ROOM 5524;;;2898.5,906.0;null;null
+p152;ROOM 5528;;;2930.0,769.0;null;null
+p153;ROOM 5529;;;2961.0,863.0;null;null
+p154;ROOM 5530;;;2960.0,906.0;null;null
+p155;ROOM 5531;;;2982.0,803.0;null;null
+p156;ROOM 5532;;;2982.0,759.0;null;null
+p157;ROOM 5534;;;3065.0,759.0;null;null
+p158;ROOM 5535;;;3065.0,800.5;null;null
+p159;ROOM 5536;;;3085.0,864.0;null;null
+p160;ROOM 5537;;;3084.5,906.0;null;null
+p161;ROOM 5538;;;3118.0,768.5;null;null
+p162;ROOM 5539;;;3159.0,770.0;null;null
+p163;ROOM 5540;;;3147.5,865.0;null;null
+p164;ROOM 5541;;;3147.5,906.5;null;null
+p165;ROOM 5543;;;3231.0,907.0;null;null
+p166;ROOM 5544;;;3232.0,865.0;null;null
+p167;ROOM 5545;;;3199.5,781.0;null;null
+p168;ROOM 5546;;;3242.5,781.0;null;null
+p169;ROOM 5547;;;3295.0,803.5;null;null
+p170;ROOM 5548;;;3295.0,760.5;null;null
+p171;ROOM 5549;;;3366.0,782.0;null;null
+p172;ROOM 5550;;;3367.0,853.5;null;null
+p173;ROOM 5557;;;3295.5,865.5;null;null
+p174;ROOM 5558;;;3294.0,907.0;null;null
+p175;ROOM 5559;;;3292.0,978.5;null;http://seatplan.ust.hk/?room=5559
+p176;ROOM 5560;;;3408.0,981.5;null;http://seatplan.ust.hk/?room=5560
+p177;ROOM 5561;;;3292.0,1082.0;null;http://seatplan.ust.hk/?room=5561
+p178;ROOM 5562;;;3408.5,1084.0;null;http://seatplan.ust.hk/?room=5562
+p179;ROOM 5563;;;3292.0,1186.5;null;http://seatplan.ust.hk/?room=5563
+p180;ROOM 5564;;;3408.0,1188.0;null;http://seatplan.ust.hk/?room=5564
+p181;ROOM 5565;;;3291.0,1289.0;null;http://seatplan.ust.hk/?room=5565
+p182;ROOM 5566;;;3408.0,1280.5;null;http://seatplan.ust.hk/?room=5566
+p183;ROOM 5567;;;3312.5,1383.5;null;null
+p184;ROOM 5568;;;3408.5,1383.5;null;http://seatplan.ust.hk/?room=5568
+p185;ROOM 5570-5572;office;INDUSTRIAL TRAINING CENTER, ROOM 5570, ROOM 5571, ROOM 5572;3743.5,1346.0;null;null
+p186;ROOM 5577;;;3752.5,1239.0;null;null
+p187;ROOM 5037;office;PURCHASING;1493.25,1741.75;null;null
+p188;ROOM 5333;office;HUMAN RESOURCE OFFICE;734.5,1408.5;null;null
+p189;FMO ROOM 5358;;;1390.0,833.0;null;null
+p190;ROOM 5414;;FINANCE OFFICE,FINANCE OFFICE;1719.5,1097.5;null;null
+p191;STAIR SC01;stair;;744.0,670.0;null;null
+p192;FEMALE TOILET;female toilet;FEMALE TOILET;854.0,676.5;null;null
+p193;LIFT 3;lift;;763.75,1555.25;null;null
+p194;MALE TOILET;male toilet;MALE TOILET;725.25,1670.5;null;null
+p195;FEMALE TOILET;female toilet;FEMALE TOILET;1322.0,1670.5;null;null
+p196;LIFT 2;lift;;1285.25,1556.5;null;null
+p197;LIFT 13;lift;;1177.0,659.5;null;null
+p198;LIFT 14;lift;;1213.0,658.5;null;null
+p199;LIFT 15;lift;;1251.5,658.0;null;null
+p200;STAIR SC02;stair;;1303.0,671.5;null;null
+p201;STAIR SC06;stair;;677.5,1554.75;null;null
+p202;STAIR SC07;stair;;1369.75,1554.25;null;null
+p203;LIFT 17;lift;;1560.5,965.0;null;null
+p204;LIFT 18;lift;;1559.5,1001.5;null;null
+p205;STAIR SC03;stair;;1479.0,1044.5;null;null
+p206;STAIR SC12;stair;;2022.5,980.5;null;null
+p207;STAIR SC14;stair;;2478.0,1045.5;null;null
+p208;STAIR SC15;stair;;2524.5,1382.0;null;null
+p209;MALE TOILET;male toilet;MALE TOILET;1549.5,1053.5;null;null
+p210;FEMALE TOILET;female toilet;FEMALE TOILET;2548.5,1061.0;null;null
+p211;STAIR SC16;stair;;3021.0,980.5;null;null
+p212;STAIR SC19;stair;;3536.5,1381.5;null;null
+p213;LIFT 27;lift;;3488.0,966.5;null;null
+p214;LIFT 28;lift;;3489.5,1002.0;null;null
+p215;MALE TOILET;male toilet;MALE TOILET;3498.0,1056.0;null;null
+p216;STAIR SC18;stair;;3568.5,1032.5;null;null
+p217;LIFT 29;lift;;3764.0,776.5;null;null
+p218;LIFT 30;lift;;3764.0,809.5;null;null
+p219;STAIR SC33;stair;;3644.5,794.0;null;null
+p220;STAIR SC35;stair;;4024.0,979.5;null;null
+p221;LIFT 31;lift;;4599.5,957.5;null;null
+p222;LIFT 32;lift;;4599.5,994.5;null;null
+p223;STAIR SC36;stair;;4497.0,1031.0;null;null
+p224;ROOM 5578;;;3752.0,1196.0;null;null
+p225;ROOM 5581;;;3751.5,1156.0;null;null
+p226;ROOM 5582;;;3751.0,1113.0;null;null
+p227;ROOM 5580;;;3679.0,1144.5;null;null
+p228;ROOM 5579;;;3626.5,1177.0;null;null
+p229;ROOM 5584;;;3625.5,1135.5;null;null
+p230;ROOM 5585;;;3616.5,1070.5;null;null
+p231;ROOM 5583;;;3688.0,1009.5;null;null
+p232;ROOM 5588;;ROOM 5588, ROOM 5588A;3793.0,908.0;null;null
+p233;ROOM 5589-5606;;HKUST MBA PROGRAM, ROOM 5589;3825.5,801.5;null;null
+p234;ROOM 5591;;;3917.5,884.0;null;null
+p235;ROOM 5603;;;4050.5,778.5;null;null
+p236;ROOM 5605;;;3950.5,778.5;null;null
+p237;ROOM 5602;;;4163.0,759.0;null;null
+p238;ROOM 5601;;;4226.0,759.0;null;null
+p239;ROOM 5611A-E;;ROOM 5611A, ROOM 5611B, ROOM 5611C, ROOM 5611D, ROOM 5611E;4326.0,830.5;null;null
+p240;ROOM 5613A-M;;FOK YING TUNG GRADUATE SCHOOL, ROOM 5613A, ROOM 5613C, ROOM 5613D, ROOM 5613E, ROOM 5613F, ROOM 5613G, ROOM 5613K, ROOM 5613M;4501.5,812.0;null;null
+p241;MALE TOILET;male toilet;MALE TOILET;4575.0,1052.0;null;null
+p242;ROOM 5614-5617;office;ROOM 5614, ROOM 5615, ROOM 5616, ROOM 5617, ROOM 5618;4336.0,999.0;null;null
+p243;DRINKING FOUNTAIN;drinking fountain;;3556.0,1338.5;null;null
+p244;DRINKING FOUNTAIN;drinking fountain;;2558.5,1349.5;null;null
+p245;5409;;;1617.5,833.0;null;null
+p246;5513 ;;DEPARTMENT OF BIOCHEMISTRY ;2628.5,812.0;null;null
+p247;5512;;;2575.0,781.0;null;null
+p248;5467;;;2492.0,775.5;null;null
+p249;5468;;;2533.5,773.0;null;null
+p250;ROOM 5619;;;4333.0,1155.0;null;http://seatplan.ust.hk/?room=5619
+p251;5620;;;4336.0,1334.5;null;null
+p252;ROOM 5013;;null;616.0,1581.0;null;null
+p253;ROOM 5003;;null;658.75,1684.0;null;null
+p254;ROOM 5012;;null;571.25,1604.5;null;null
+p255;ROOM 5011;;null;535.5,1625.25;null;null
+p256;ROOM 5010;;null;503.25,1649.5;null;null
+p257;ROOM 5009;;null;471.0,1671.0;null;null
+p258;ROOM 5008;;null;440.25,1695.25;null;null
+p259;ROOM 5007;;null;410.75,1722.5;null;null
+p260;ROOM 5006;;null;380.0,1748.25;null;null
+p261;ROOM 5005;;null;486.25,1797.5;null;null
+p262;ROOM 5004A;;null;551.75,1750.75;null;null
+p263;ROOM 5003A;;null;599.5,1725.25;null;null
+p264;ROOM 5346;;;690.0,771.0;null;null
+p265;ROOM 5551;;null;3419.0,814.0;null;null
+p266;ROOM 5553;;null;3468.5,781.5;null;null
+p267;ROOM 5552;;null;3468.5,844.5;null;null
+p268;ROOM 5554;;null;3530.0,800.5;null;null
+p269;ROOM 5555;;null;3595.0,812.5;null;null

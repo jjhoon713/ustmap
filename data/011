@@ -1,0 +1,253 @@
+-0.0018843194292206223
+-0.06189041554
+0.001848429159778135
+-87.5366617397
+p0;STAIR SC01;stair;;757.5,696.0;null;null
+p1;MALE TOILET;male toilet;MALE TOILET;863.0,693.0;null;null
+p2;STAIR SC02;stair;;1311.0,698.0;null;null
+p3;LIFT 13;lift;;1186.0,674.0;null;null
+p4;LIFT 14;lift;;1221.0,674.5;null;null
+p5;LIFT 15;lift;;1260.5,674.5;null;null
+p6;LIFT 17;lift;;1567.5,978.0;null;null
+p7;LIFT 18;lift;;1567.0,1015.0;null;null
+p8;FEMALE TOILET;female toilet;FEMALE TOILET;1556.5,1066.0;null;null
+p9;STAIR SC03;stair;;1485.0,1043.5;null;null
+p10;LIFT 25;lift;;2559.5,978.5;null;null
+p11;LIFT 26;lift;;2560.5,1016.0;null;null
+p12;MALE TOILET;male toilet;MALE TOILET;2550.0,1069.0;null;null
+p13;STAIR SC14;stair;;2479.0,1043.0;null;null
+p14;LIFT 27;lift;;3482.5,979.0;null;null
+p15;LIFT 28;lift;;3482.5,1015.5;null;null
+p16;FEMALE TOILET;female toilet;FEMALE TOILET;3492.0,1067.0;null;null
+p17;STAIR SC18;stair;;3563.5,1044.5;null;null
+p18;LIFT 29;lift;;3756.5,791.5;null;null
+p19;LIFT 30;lift;;3757.5,823.0;null;null
+p20;LIFT 31;lift;;4590.0,972.0;null;null
+p21;LIFT 32;lift;;4589.5,1009.0;null;null
+p22;LIFT 19;lift;;2204.5,1853.0;null;null
+p23;STAIR SC11;stair;;2157.5,1830.5;null;null
+p24;STAIR SC10;stair;;1919.5,1831.0;null;null
+p25;STAIR SC22;stair;;2892.5,1830.5;null;null
+p26;STAIR SC23;stair;;3151.5,1832.0;null;null
+p27;LIFT 22;lift;;3198.0,1853.0;null;null
+p28;LIFT 21;lift;;2890.0,2214.5;null;null
+p29;STAIR SC24;stair;;2879.5,2269.0;null;null
+p30;STAIR SC25;stair;;2893.0,2542.0;null;null
+p31;LIFT 23;lift;;3153.0,2214.0;null;null
+p32;STAIR SC26;stair;;3165.0,2269.0;null;null
+p33;STAIR SC27;stair;;3150.5,2541.5;null;null
+p34;LIFT 24;lift;;3891.0,2215.5;null;null
+p35;STAIR SC29;stair;;3871.5,2267.5;null;null
+p36;STAIR SC30;stair;;3885.5,2541.0;null;null
+p37;FEMALE TOILET;female toilet;FEMALE TOILET;4136.0,1825.0;null;null
+p38;FEMALE TOILET;female toilet;FEMALE TOILET;3175.0,2335.5;null;null
+p39;MALE TOILET;male toilet;MALE TOILET;3865.5,2334.5;null;null
+p40;FEMALE TOILET;female toilet;FEMALE TOILET;2871.0,2335.5;null;null
+p41;MALE TOILET;male toilet;MALE TOILET;3079.0,1823.5;null;null
+p42;MALE TOILET;male toilet;MALE TOILET;2179.0,2334.0;null;null
+p43;ROOM 6201;lab;;2317.0,2645.0;null;null
+p44;ROOM 6202;lab;;2422.0,2645.0;null;null
+p45;ROOM 6203;lab;;2524.0,2677.5;null;null
+p46;ROOM 6204;lab;;2494.5,2592.5;null;null
+p47;ROOM 6205;lab;;2557.0,2594.0;null;null
+p48;ROOM 6206;lab;;2679.0,2645.0;null;null
+p49;ROOM 6103;lab;;1871.0,1507.5;null;null
+p50;ROOM 6102;lab;;1871.5,1591.0;null;null
+p51;ROOM 6101;lab;;1872.5,1695.0;null;null
+p52;ROOM 6100;lab;;1860.0,1641.5;null;null
+p53;ROOM 6111;lab;;1957.5,1506.5;null;null
+p54;ROOM 6112;lab;;2027.5,1498.0;null;null
+p55;ROOM 6105;lab;;1955.5,1592.5;null;null
+p56;ROOM 6104;lab;;1986.5,1695.0;null;null
+p57;ROOM 6107;lab;;2027.5,1558.5;null;null
+p58;ROOM 6109;lab;;2027.0,1612.0;null;null
+p59;ROOM 6113;lab;;2131.5,1685.5;null;null
+p60;ROOM 6114;lab;;2131.0,1530.5;null;null
+p61;ROOM 6115;lab;;2224.5,1685.0;null;null
+p62;ROOM 6116;lab;;2223.5,1530.0;null;null
+p63;FEMALE TOILET;female toilet;FEMALE TOILET;2097.5,1829.5;null;null
+p64;ROOM 611A;;;2003.5,1822.5;null;null
+p65;ROOM  6117AB;lab;ROOM 6117, ROOM 6117A, ROOM 6117B;2359.0,1572.0;null;null
+p66;ROOM 6118;lab;;2389.5,1706.0;null;null
+p67;ROOM 6120;lab;;2525.0,1705.0;null;null
+p68;ROOM 6123;lab;;2659.0,1705.5;null;null
+p69;ROOM 6122AB;lab;ROOM 6122, ROOM 6122A, ROOM 6122B;2556.0,1571.5;null;null
+p70;ROOM 6124;lab;;2764.0,1570.5;null;null
+p72;ROOM 6126;lab;;2795.0,1704.0;null;null
+p73;ROOM 6127;lab;;3012.5,1601.0;null;null
+p74;ROOM 6130;lab;;3155.0,1519.5;null;null
+p75;ROOM 6129;lab;;3155.0,1592.0;null;null
+p76;ROOM 6128;lab;;3155.5,1673.5;null;null
+p77;ROOM 6131;lab;;3300.0,1602.0;null;null
+p78;ROOM 6135;lab;;3486.5,1570.5;null;null
+p79;ROOM 5136;lab;;3434.0,1704.0;null;null
+p80;ROOM 6134;lab;;3486.5,1704.0;null;null
+p81;ROOM 6133;;;3570.5,1704.5;null;null
+p82;ROOM 6138;lab;;3653.0,1705.5;null;null
+p83;ROOM 6139;lab;;3705.0,1706.0;null;null
+p84;ROOM 6141;lab;;3861.5,1604.0;null;null
+p85;ROOM 6142;lab;;3986.5,1696.5;null;null
+p86;ROOM 6143;lab;;4121.0,1530.0;null;null
+p87;ROOM 6144;lab;;4119.0,1664.0;null;null
+p88;ROOM 6145;lab;;4272.5,1530.5;null;null
+p89;ROOM 6146;lab;;4272.5,1664.0;null;null
+p90;ROOM 6147;lab;;4398.0,1528.5;null;null
+p91;ROOM 6148;lab;;4396.0,1664.0;null;null
+p92;ROOM 6149;lab;;4543.0,1528.5;null;null
+p93;ROOM 6150;lab;;4544.0,1665.5;null;null
+p94;ROOM 6212;lab;ROOM 6212A;2315.5,2468.0;null;null
+p95;ROOM 6211;lab;;2420.5,2511.5;null;null
+p96;ROOM 6213;lab;;2420.0,2440.0;null;null
+p97;ROOM 6214;lab;;2492.0,2419.5;null;null
+p98;ROOM 6215;lab;;2493.0,2470.5;null;null
+p99;ROOM 6210;lab;;2492.0,2522.0;null;null
+p100;ROOM 6217;lab;;2555.5,2420.0;null;null
+p101;ROOM 6216;lab;;2554.5,2480.0;null;null
+p102;ROOM 6209;lab;;2555.5,2522.0;null;null
+p103;ROOM 6208;lab;;2628.0,2511.5;null;null
+p104;ROOM 6207;lab;;2731.5,2470.5;null;null
+p105;ROOM 6218;lab;;2629.5,2438.5;null;null
+p106;LIFT 20;lift;;2150.0,2215.5;null;null
+p107;ROOM 6330-6376;office;ROOM 6330, ROOM 6331, ROOM 6332, ROOM 6332A, ROOM 6332B, ROOM 6332C, ROOM 6333, ROOM 6334, ROOM 6335, ROOM 6336, ROOM 6337, ROOM 6338, ROOM 6339, ROOM 6339A, ROOM 6340, ROOM 6341A, ROOM 6341B, ROOM 6342, ROOM 6343, ROOM 6343A, ROOM 6344, ROOM 6345, ROOM 6346, ROOM 6347, ROOM 6348, ROOM 6349, ROOM 6350, ROOM 6350A, ROOM 6353, ROOM 6353A, ROOM 6353B, ROOM 6353C, ROOM 6354, ROOM 6355, ROOM 6355A, ROOM 6356, ROOM 6357, ROOM 6358, ROOM 6359, ROOM 6359A, ROOM 6360, ROOM 6365, ROOM 6366, ROOM 6367, ROOM 6368, ROOM 6368A, ROOM 6370, ROOM 6371, ROOM 6371A, ROOM 6372, ROOM 6373, ROOM 6374, ROOM 6375, ROOM 6376, Office of Planning & Institutional Research, OPIR;1189.0,848.0;null;null
+p108;ROOM 6580-83;;SCHOOL OF ENGINEERING TECHNOLOGY EDUCATION CORRIDOR;3040.5,847.5;null;null
+p109;ROOM 6525-6538;office;PROFESSIONAL PROGRAM OFFICE, SCHOOL OF ENGINEERING, ROOM 6525, ROOM 6526, ROOM 6527, ROOM 6528, ROOM 6529, ROOM 6530, ROOM 6531, ROOM 6535, ROOM 6536, ROOM 6538;3353.0,1087.5;null;null
+p110;ROOM 6568, 6569;;;3352.0,1334.0;null;null
+p111;ROOM 6539-6548;;ROOM 6539, ROOM 6540, ROOM 6541, ROOM 6542, ROOM 6543, ROOM 6544, ROOM 6545, ROOM 6546, ROOM 6547, ROOM 6548;3433.5,827.5;null;null
+p112;ROOM 6549-6566;;6549,6550,6551,6552,6553,6554,6555,6556,6557,6559,6560,6561,6562,6563,6564,6565,6566;3683.0,1142.0;null;null
+p113;STAIR SC36;stair;;4485.0,1046.0;null;null
+p114;FEMALE TOILET;female toilet;;4565.0,1067.5;null;null
+p115;STAIR SC13;stair;;2026.0,1380.0;null;null
+p116;STAIR SC15;stair;;2537.0,1404.0;null;null
+p117;STAIR SC17;stair;;3021.5,1335.0;null;null
+p118;ROOM 6252;lab;;2287.0,1810.5;null;null
+p119;ROOM 6253;lab;;2328.5,1799.0;null;null
+p120;ROOM 6254;lab;;2379.5,1800.0;null;null
+p121;ROOM 6250;lab;;2367.5,1859.0;null;null
+p122;ROOM 6251;lab;;2286.0,1871.0;null;null
+p123;ROOM 6255;lab;;2474.0,1839.5;null;null
+p124;ROOM 6256-6259;lab;ROOM 6256, ROOM 6257, ROOM 6258, ROOM 6259;2595.5,1841.0;null;null
+p125;ROOM 6260;lab;;2725.0,1837.5;null;null
+p127;ROOM 6244;lab;;2742.5,1946.0;null;null
+p128;ROOM 6245;lab;;2658.5,1943.5;null;null
+p129;ROOM 6246;lab;;2576.5,1943.5;null;null
+p130;ROOM 6247;;;2472.5,1942.0;null;null
+p131;ROOM 6248;lab;;2388.5,1943.0;null;null
+p132;ROOM 6249;lab;;2307.0,1943.0;null;null
+p133;ROOM 6236;lab;;2317.0,2098.0;null;null
+p134;ROOM 6235;lab;;2420.5,2139.5;null;null
+p135;ROOM 6237;lab;;2421.5,2067.0;null;null
+p136;ROOM 6238;;;2494.5,2055.0;null;null
+p137;ROOM 6239;;;2494.0,2108.5;null;null
+p138;ROOM 6240;lab;;2493.0,2148.5;null;null
+p139;ROOM 6242;lab;;2554.5,2057.5;null;null
+p140;ROOM 6241;lab;;2556.0,2130.0;null;null
+p141;ROOM 6243;lab;;2628.0,2066.0;null;null
+p142;ROOM 6234;lab;;2629.5,2139.0;null;null
+p143;ROOM 6233A,6233B;lab;ROOM 6233A, ROOM 6233B;2730.5,2099.0;null;null
+p144;ROOM 6225;lab;;2307.0,2231.5;null;null
+p145;ROOM 6226;lab;;2389.5,2233.5;null;null
+p146;ROOM 6227;lab;;2451.5,2231.0;null;null
+p147;ROOM 6228;lab;;2494.0,2232.0;null;null
+p148;ROOM 6229;lab;;2555.0,2263.5;null;null
+p149;ROOM 6230;lab;;2596.0,2243.0;null;null
+p150;ROOM 6231;lab;;2659.0,2231.5;null;null
+p151;ROOM 6232;lab;;2742.5,2231.5;null;null
+p152;ROOM 6224;lab;;2306.5,2315.0;null;null
+p153;ROOM 6223;lab;;2390.5,2314.5;null;null
+p154;ROOM 6222;lab;;2472.5,2315.0;null;null
+p155;ROOM 6221;lab;;2578.0,2325.0;null;null
+p156;ROOM 6220;lab;;2658.5,2314.0;null;null
+p157;ROOM 6219;lab;;2741.5,2315.5;null;null
+p158;STAIR SC20;stair;;2171.0,2267.0;null;null
+p159;STAIR SC28;stair;;3885.5,1832.0;null;null
+p160;STAIR SC40;stair;;4192.0,1832.0;null;null
+p161;LIFT 33;lift;;4291.0,1829.5;null;null
+p162;ROOM 6267;lab;;3280.0,1806.0;null;null
+p163;ROOM 6268;lab;;3321.0,1799.0;null;null
+p164;ROOM 6269;lab;;3362.5,1799.0;null;null
+p165;ROOM 6270;lab;;3404.0,1797.0;null;null
+p166;ROOM 6271;lab;;3444.5,1818.0;null;null
+p167;ROOM 6323;lab;;3528.5,1818.5;null;null
+p168;ROOM 6322;lab;;3622.0,1818.5;null;null
+p169;ROOM 6321;lab;;3746.5,1840.0;null;null
+p170;STAIR SC19;stair;;3532.0,1395.5;null;null
+p171;STAIR SC21;stair;;2156.5,2543.0;null;null
+p172;ROOM 6277;lab;;3300.5,1861.0;null;null
+p173;ROOM 6276;lab;;3301.5,1943.0;null;null
+p174;ROOM 6275;lab;;3383.0,1859.5;null;null
+p175;ROOM 6274;lab;;3383.5,1941.0;null;null
+p176;ROOM 6320;lab;;3695.0,1839.5;null;null
+p177;ROOM 6272;lab;;3466.0,1881.5;null;null
+p178;ROOM 6273;lab;;3466.0,1942.0;null;null
+p179;ROOM 6318;null;null;3623.0,1954.5;null;null
+p180;ROOM 6280;lab;;3549.0,2005.5;null;null
+p181;ROOM 6282;lab;;3548.5,2056.0;null;null
+p182;ROOM 6278;lab;;3311.0,2098.0;null;null
+p183;ROOM 6279;lab;ROOM 6279B;3414.0,2098.0;null;null
+p184;ROOM 6281;lab;;3486.5,2057.5;null;null
+p185;ROOM 6284;lab;;3487.0,2109.0;null;null
+p186;ROOM 6283;lab;;3549.0,2128.0;null;null
+p187;ROOM 6285;lab;;3486.0,2150.0;null;null
+p188;ROOM 6315;lab;;3621.5,2087.5;null;null
+p189;ROOM 6316;lab;;3725.5,2057.5;null;null
+p190;ROOM 6316A;lab;;3725.5,2128.5;null;null
+p191;ROOM 6288;lab;;3299.5,2230.5;null;null
+p192;ROOM 6287;lab;;3383.5,2231.0;null;null
+p193;ROOM 6288;lab;;3466.5,2232.5;null;null
+p194;ROOM 6289;lab;;3549.5,2212.0;null;null
+p195;ROOM 6314A;lab;;3622.0,2231.0;null;null
+p196;ROOM 6313;lab;;3725.0,2275.0;null;null
+p197;ROOM 6314B;lab;;3622.0,2313.0;null;null
+p198;ROOM 6290;lab;;3549.0,2265.0;null;null
+p199;ROOM 6291;lab;;3548.5,2325.0;null;null
+p200;ROOM 6294;lab;;3299.5,2313.5;null;null
+p201;ROOM 6293;lab;;3383.5,2314.5;null;null
+p202;ROOM 6292;lab;;3466.5,2314.5;null;null
+p203;ROOM 6295;lab;;3312.0,2470.5;null;null
+p204;ROOM 6296;lab;;3414.0,2469.5;null;null
+p205;ROOM 6297;lab;;3487.0,2418.5;null;null
+p206;ROOM 6298;lab;;3549.0,2419.5;null;null
+p207;ROOM 6299;lab;;3487.5,2468.0;null;null
+p208;ROOM 6300;lab;;3548.0,2470.5;null;null
+p209;ROOM 6301;lab;;3487.5,2522.5;null;null
+p210;ROOM 6302;lab;;3548.5,2522.5;null;null
+p211;ROOM 6311;lab;;3623.0,2469.5;null;null
+p212;ROOM 6312;lab;;3725.0,2470.5;null;null
+p213;ROOM 6303;lab;;3311.0,2594.5;null;null
+p214;ROOM 6305;lab;;3414.0,2594.5;null;null
+p215;ROOM 6308;lab;;3487.5,2593.5;null;null
+p216;ROOM 6309;lab;;3549.5,2594.0;null;null
+p217;ROOM 6307;lab;;3518.0,2674.0;null;null
+p218;ROOM 6306;lab;;3414.5,2677.5;null;null
+p219;ROOM 6304;lab;;3313.0,2676.5;null;null
+p220;ROOM 6310A;lab;;3591.0,2594.5;null;null
+p221;ROOM 6310C;lab;;3632.0,2594.0;null;null
+p222;ROOM 6310D;lab;;3675.0,2593.5;null;null
+p223;ROOM 6310E;lab;;3736.5,2593.5;null;null
+p224;ROOM 6310;lab;;3673.5,2635.0;null;null
+p225;ROOM 6310G;lab;;3612.0,2687.5;null;null
+p226;ROOM 6310H;lab;;3672.5,2686.0;null;null
+p227;ROOM 6310F;lab;;3736.5,2687.0;null;null
+p228;ROOM 6319;lab;;3725.0,1943.5;null;null
+p229;ROOM 6573;lecture hall;;3868.5,829.0;null;null
+p230;ROOM 6577;;;4141.5,774.0;null;null
+p231;ROOM 6576;;;4177.0,847.0;null;null
+p232;ROOM 6591;;;4343.5,830.0;null;null
+p233;ROOM 6595;;;4277.5,960.5;null;null
+p234;ROOM 6597;;;4279.5,1001.0;null;null
+p235;ROOM 6596;;;4363.5,959.5;null;null
+p237;ROOM 6602;lecture hall;;4326.0,1179.0;null;null
+p238;ROOM 6137;;;3651.0,1515.0;null;null
+p239;ROOM 6140;;;3651.0,1619.5;null;null
+p241;ROOM 6558;;;3709.0,1209.0;null;null
+p242;ROOM 6598;;;4363.0,1031.0;null;null
+p243;ROOM 6599;;;4289.5,1053.0;null;null
+p244;ROOM 6603;;;4365.0,1353.5;null;null
+p245;ROOM 6601;;;4420.0,1403.5;null;null
+p246;ROOM 6603A;;;4290.5,1290.0;null;null
+p247;ROOM 6603B;;;4291.0,1334.0;null;null
+p248;ROOM 6592;;;4520.0,896.5;null;null
+p249;ROOM 6592A;;;4458.5,798.0;null;null
+p250;ROOM 6592B;;;4577.0,788.5;null;null
+p251;ROOM 6401-6418;;6401,6402,6403,6404,6405,6406,6407,6408,6409,6410,6411,6412,6413,6414,6415,6416,6417,6418;2376.5,842.0;null;null
+p252;ROOM 6419-6522;;6522,6521,6520,6511,6510,6509,6506,6507,6505,6504,6502,6503,6419,6423,6422,6420,6502,6503;2679.0,989.0;null;null

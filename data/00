@@ -1,0 +1,25 @@
+-0.001914325089615845
+-0.5533960148802308
+0.0018681172833323672
+-90.63029176684434
+p0;LIFT 10;lift;;2469.5,405.5;null;null
+p1;STAIR SC06;stair;;2353.0,1296.5;null;null
+p2;LIFT 3;lift;;2436.0,1298.0;null;null
+p3;LIFT 15;lift;;2911.0,406.0;null;null
+p4;STAIR SC02;stair;;2960.0,431.0;null;null
+p5;LIFT 11;lift;;2506.0,405.0;null;null
+p6;LIFT 12;lift;;2539.0,406.0;null;null
+p7;STAIR SC01;stair;;2418.5,419.5;null;null
+p8;MEGA HAIR;;SALON, HAIR CUT;2524.0,519.0;r402594664851993;null
+p9;ParknShop Supermarket;null;null;2375.5,631.0;r673844561259962;null
+p10;Asia Pacific;restaurant;restaurant , LG7 canteen, LG7 student canteen, breakfast, dinner, lunch, coffee, drinks;1863.0,447.5;r663186450111871;null
+p11;MALE TOILET;male toilet;null;1659.5,792.0;null;null
+p12;FEMALE TOILET;female toilet;null;1722.5,720.5;null;null
+p13;Male Toilet;male toilet;;1117.0,793.0;null;null
+p14;Female Toilet;female toilet;;1182.0,806.0;null;null
+p15;Gold Rice Bowl;restaurant;restaurant;1861.5,382.0;null;null
+p16;Milano Fresh;restaurant;restaurant;1110.5,661.5;null;null
+p17;Bakery;restaurant;restaurant;1821.5,668.0;null;null
+p18;ESCALATOR;escalator;;2000.0,406.0;null;null
+p19;LG7 Entrance;cross building connector;;2345.0,339.5;null;null
+p20;LG7 Entrance (near library);cross building connector;;663.0,601.5;null;null

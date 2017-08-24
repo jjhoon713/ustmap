@@ -1,0 +1,452 @@
+-0.00188522779518938
+-0.1467853485
+0.0018345450796566282
+-87.4830238099
+p0;ROOM 4338;classroom;null;591.0,853.0;null;null
+p1;ROOM 4337;classroom;null;633.0,862.0;null;null
+p2;ROOM 4336;classroom;null;675.5,863.5;null;null
+p3;ROOM 4335;classroom;null;717.0,863.5;null;null
+p4;STAIR SC01;stair;null;739.5,650.0;null;null
+p5;LIFT 13;lift;null;1171.0,624.5;null;null
+p6;LIFT 14;lift;null;1207.5,625.0;null;null
+p7;LIFT 15;lift;null;1246.0,623.5;null;null
+p8;STAIR SC02;stair;null;1296.5,655.0;null;null
+p9;ROOM 4375;classroom;null;1342.0,821.5;null;null
+p10;ROOM 4378;classroom;null;1466.0,748.5;null;null
+p11;ROOM 4379;office;MARKETING;1519.0,767.5;null;null
+p12;ROOM 4412;office;DEPARTMENT OF INFORMATION SYSTEM;1615.0,821.5;null;null
+p13;ROOM 4411;office;null;1654.5,747.0;null;null
+p14;ROOM 4420;classroom;IS;1697.0,747.0;null;null
+p15;ROOM 4419;office;IS;1697.5,820.0;null;null
+p16;ROOM 4421;classroom;IS;1737.5,736.0;null;null
+p17;ROOM 4418;classroom;IS;1761.0,841.5;null;null
+p18;ROOM 4413;office;IS;1667.0,894.5;null;null
+p19;ROOM 4414;classroom;IS;1664.5,935.0;null;null
+p20;ROOM 4417;classroom;IS;1750.0,894.5;null;null
+p21;ROOM 4416;office;IS;1749.5,935.0;null;null
+p22;ROOM 4351;classroom;null;810.0,863.5;null;null
+p23;ROOM 4352;classroom;null;862.5,864.0;null;null
+p24;ROOM 4353;classroom;null;904.0,862.5;null;null
+p25;ROOM 4354;classroom;null;945.5,863.0;null;null
+p26;ROOM 4357;classroom;null;987.0,863.5;null;null
+p27;ROOM 4358;classroom;null;1029.5,863.5;null;null
+p28;ROOM 4361;classroom;null;1070.0,863.0;null;null
+p29;ROOM 4362;classroom;null;1112.0,864.0;null;null
+p30;ROOM 4366;classroom;null;1154.5,864.0;null;null
+p31;ROOM 4367;classroom;null;1195.0,863.0;null;null
+p32;ROOM 4381;office;null;1373.0,1049.0;null;null
+p33;ROOM 4382D;office;null;1332.0,1123.0;null;null
+p34;ROOM 4382E;office;null;1403.0,1123.0;null;null
+p35;ROOM 4382A;office;null;1424.5,1174.5;null;null
+p36;ROOM 4382B;office;null;1382.5,1184.5;null;null
+p37;ROOM 4382C;office;null;1331.0,1185.0;null;null
+p38;ROOM 4382;office;null;1351.5,1154.0;null;null
+p39;ROOM 4383;office;null;1374.5,1246.0;null;null
+p40;ROOM 4384A;office;ALUMNI;1314.0,1353.5;null;null
+p41;ROOM 4384;office;ALUMNI;1403.5,1355.0;null;null
+p42;STAIR SC04;stair;null;1519.0,1354.5;null;null
+p43;ROOM 4423;classroom;IS;1790.5,725.0;null;null
+p44;ROOM 4422;classroom;IS;1791.5,768.5;null;null
+p45;STAIR SC03;stair;;1472.5,997.5;null;null
+p46;LIFT 17;lift;;1555.0,931.5;null;null
+p47;LIFT 18;lift;;1555.0,967.5;null;null
+p48;FEMALE TOILET;female toilet;FEMALE TOILET;1545.5,1021.5;null;null
+p49;ROOM 4402-4404;general;BARN A, ROOM 4402, ROOM 4403, ROOM 4404;1708.0,1176.0;null;null
+p50;ROOM 4427;office;IS;1811.0,830.0;null;null
+p51;ROOM 4425;office;IS;1872.5,725.0;null;null
+p52;ROOM 4426;office;IS;1872.5,767.0;null;null
+p53;ROOM 4428;office;;1811.0,872.0;null;null
+p54;ROOM 4430;office;IS;1893.0,872.5;null;null
+p55;ROOM 4431;office;IS;1893.5,830.0;null;null
+p56;ROOM 4432;office;IS;1924.5,746.0;null;null
+p57;ROOM 4433;office;IS;1955.0,830.5;null;null
+p58;ROOM 4434;office;IS;1955.0,873.5;null;null
+p59;ROOM 4435;office;IS;1976.5,768.0;null;null
+p60;ROOM 4436;office;IS;1976.0,726.0;null;null
+p61;STAIR SC12;stair;null;2018.5,934.5;null;null
+p62;ROOM 4438;office;IS;2060.0,725.5;null;null
+p63;ROOM 4439;office;IS;2060.5,768.0;null;null
+p64;ROOM 4440;office;IS;2080.0,831.0;null;null
+p65;ROOM 4441;office;IS;2080.0,871.5;null;null
+p66;ROOM 4442;office;IS;2112.5,745.0;null;null
+p67;ROOM 4443;office;IS;2153.5,735.5;null;null
+p68;ROOM 4444;office;IS;2142.5,830.5;null;null
+p69;ROOM 4445;office;IS;2142.5,872.5;null;null
+p70;ROOM 4447;office;;2226.0,873.0;null;null
+p71;ROOM 4448;office;IS;2225.5,830.0;null;null
+p72;ROOM 4449;office;IS;2195.0,745.5;null;null
+p73;ROOM 4450;office;IS;2237.0,746.0;null;null
+p74;ROOM 4451;office;IS;2289.5,767.0;null;null
+p75;ROOM 4452;office;IS;2288.5,726.5;null;null
+p76;ROOM 4453;office;IS;2288.0,683.5;null;null
+p77;ROOM 4454;office;IS;2288.0,643.0;null;null
+p78;ROOM 4455;office;IS;2287.5,601.0;null;null
+p79;ROOM 4456;office;IS;2298.0,558.0;null;null
+p80;ROOM 4457;office;IS;2372.5,559.5;null;null
+p81;ROOM 4458;office;IS;2425.0,570.0;null;null
+p82;ROOM 4459;office;IS;2423.5,633.0;null;null
+p83;ROOM 4460;office;IS;2372.0,641.5;null;null
+p84;ROOM 4461;office;DEPARTMENT OF PHYSICS , DEPARTMENT OF PHYSICS;2392.0,789.0;null;null
+p85;ROOM 4462;office;PHY;2465.5,809.5;null;null
+p86;ROOM 4463;office;PHY;2466.0,746.5;null;null
+p87;ROOM 4464;office;PHY;2518.5,767.0;null;null
+p88;ROOM 4468;office;IS;2288.5,831.5;null;null
+p89;ROOM 4469;office;IS;2289.0,871.5;null;null
+p90;ROOM 4470;office;IS;2288.0,914.5;null;null
+p91;ROOM 4471;office;IS;2288.0,957.5;null;null
+p92;ROOM 4472;classroom;;2403.5,945.5;null;http://seatplan.ust.hk/?r, oom=4472
+p93;ROOM 4475;classroom;;2404.0,1048.0;null;http://seatplan.ust.hk/?room=4475
+p94;ROOM 4480;classroom;;2402.5,1151.5;null;http://seatplan.ust.hk/?room=4480
+p95;ROOM 4483;classroom;;2403.5,1245.0;null;http://seatplan.ust.hk/?room=4483
+p96;ROOM 4473;office;;2288.0,999.0;null;null
+p97;ROOM 4474;office;;2289.0,1039.5;null;null
+p98;ROOM 4476;office;;2288.0,1080.5;null;null
+p99;ROOM 4477;office;;2288.0,1122.5;null;null
+p100;ROOM 4478;office;;2288.0,1165.0;null;null
+p101;ROOM 4481;office;;2288.5,1205.5;null;null
+p102;ROOM 4482;office;;2288.0,1289.5;null;null
+p103;ROOM 4484;office;;2329.0,1351.5;null;null
+p104;STAIR SC15;stair;;2518.5,1360.0;null;null
+p105;LIFT 25;lift;;2555.5,931.5;null;null
+p106;LIFT 26;lift;;2555.5,968.5;null;null
+p107;MALE TOILET;male toilet;MALE TOILET;2546.0,1023.5;null;null
+p108;STAIR SC14;stair;;2472.5,998.5;null;null
+p109;ROOM 4501;office;;2685.5,1351.5;null;null
+p110;ROOM 4502;classroom;;2708.0,1256.0;null;http://seatplan.ust.hk/?room=4502
+p111;ROOM 4503;classroom;;2708.5,1152.0;null;http://seatplan.ust.hk/?room=4503
+p112;ROOM 4504;classroom;;2708.0,1047.5;null;http://seatplan.ust.hk/?room=4504
+p113;ROOM 4505;classroom;;2708.0,945.5;null;http://seatplan.ust.hk/?room=4505
+p114;ROOM 4510;office;CHEMESTRY;2572.0,809.5;null;null
+p115;ROOM 4511;office;CHEM;2572.0,747.0;null;null
+p116;ROOM 4512;office;DEPARTMENT OF CHEMISTRY, DEPARTMENT OF CHEMISTRY;2645.5,757.5;null;null
+p117;ROOM 4514;office;CHEM;2665.5,642.0;null;null
+p118;ROOM 4515;office;CHEM;2613.0,631.5;null;null
+p119;ROOM 4516;office;CHEM;2614.0,570.0;null;null
+p120;ROOM 4517;office;CHEM;2666.5,560.5;null;null
+p121;ROOM 4518;office;CHEM;2740.5,560.0;null;null
+p122;ROOM 4519;office;CHEM;2750.5,601.5;null;null
+p123;ROOM 4520;office;CHEM;2750.5,642.5;null;null
+p124;ROOM 4521;office;CHEM;2748.5,684.5;null;null
+p125;ROOM 4522;office;CHEM;2749.0,727.0;null;null
+p126;ROOM 4523;office;CHEM;2748.0,768.0;null;null
+p127;ROOM 4524;office;CHEM;2748.5,830.0;null;null
+p128;ROOM 4525;office;CHEM;2747.5,872.5;null;null
+p129;ROOM 4526;office;CHEM;2801.5,746.5;null;null
+p130;ROOM 4532;office;CHEM;2843.0,735.5;null;null
+p131;ROOM 4527;office;CHEM;2812.0,830.5;null;null
+p132;ROOM 4528;office;CHEM;2811.5,872.5;null;null
+p133;ROOM 4531;office;CHEM;2894.0,830.5;null;null
+p134;ROOM 4530;office;CHEM;2893.5,872.5;null;null
+p135;ROOM 4533;office;CHEM;2884.0,736.0;null;null
+p136;ROOM 4534;office;CHEM;2925.5,746.5;null;null
+p137;ROOM 4538;office;CHEM;2977.0,726.5;null;null
+p138;ROOM 4537;office;CHEM;2976.0,767.5;null;null
+p139;ROOM 4535;office;CHEM;2957.0,831.0;null;null
+p140;ROOM 4536;office;CHEM;2957.0,872.5;null;null
+p141;STAIR SC16;stair;;3019.5,936.0;null;null
+p142;ROOM 4543;office;CHEM;3081.0,872.5;null;null
+p143;ROOM 4542;office;CHEM;3081.0,830.5;null;null
+p144;ROOM 4541;office;CHEM;3060.5,768.0;null;null
+p145;ROOM 4540;office;CHEM;3061.0,725.0;null;null
+p146;ROOM 4544;office;CHEM;3113.0,736.0;null;null
+p147;ROOM 4545;office;CHEM;3154.5,735.0;null;null
+p148;ROOM 4546;office;CHEM;3196.0,736.5;null;null
+p149;ROOM 4547;office;CHEM;3143.5,830.5;null;null
+p150;ROOM 4548;office;CHEM;3144.0,873.5;null;null
+p151;ROOM 4550;office;CHEM;3227.0,873.0;null;null
+p152;ROOM 4551;office;CHEM;3226.5,829.5;null;null
+p153;ROOM 4552;office;CHEM;3238.0,746.0;null;null
+p154;ROOM 4553;office;;3290.0,768.0;null;null
+p155;ROOM 4554;office;;3290.0,727.0;null;null
+p156;ROOM 4555;office;;3289.0,683.5;null;null
+p157;ROOM 4556;office;;3288.5,643.0;null;null
+p158;ROOM 4557;office;;3288.5,600.5;null;null
+p159;ROOM 4558;office;;3299.5,558.5;null;null
+p160;ROOM 4559;office;;3372.5,558.0;null;null
+p161;ROOM 4560;office;;3426.0,569.5;null;null
+p162;ROOM 4561;office;;3425.5,631.5;null;null
+p163;ROOM 4562;office;;3373.5,642.5;null;null
+p164;ROOM 4564;office;;3363.0,695.5;null;null
+p166;ROOM 4567;office;;3288.5,830.0;null;null
+p167;ROOM 4568;office;;3290.0,873.5;null;null
+p168;ROOM 4571;office;;3467.5,746.5;null;null
+p169;ROOM 4572A;office;;3509.0,746.0;null;null
+p170;ROOM 4573;lab;;3583.5,799.5;null;null
+p171;ROOM 4574;office;;3543.0,736.0;null;null
+p172;STAIR SC33;stair;;3641.5,760.5;null;null
+p173;LIFT 27;lift;;3482.5,932.5;null;null
+p174;LIFT 28;lift;;3483.0,969.0;null;null
+p175;STAIR SC18;stair;;3565.0,999.0;null;null
+p176;FEMALE TOILET;female toilet;FEMALE TOILET;3493.0,1020.5;null;null
+p177;ROOM 4577;office;;3330.0,925.5;null;null
+p178;ROOM 4578;office;BARN C;3331.0,1302.0;null;null
+p179;ROOM 4581;office;;3426.5,1353.0;null;null
+p180;STAIR SC19;stair;;3521.0,1360.5;null;null
+p181;ROOM 4582;office;;3687.0,1354.0;null;null
+p182;ROOM 4583;office;;3708.5,1270.0;null;null
+p183;ROOM 4584;office;;3708.5,1184.5;null;null
+p184;ROOM 4586;office;;3751.5,1090.5;null;null
+p185;ROOM 4585;office;;3677.0,1080.0;null;null
+p186;ROOM 4585C;office;;3751.5,872.0;null;null
+p187;LIFT 30;lift;;3760.5,775.0;null;null
+p188;LIFT 29;lift;;3761.0,742.5;null;null
+p189;ROOM 4605A;office;;4010.5,735.5;null;null
+p190;ROOM 4605;office;;4102.5,745.5;null;null
+p191;ROOM 4606A;office;;4102.5,852.0;null;null
+p192;ROOM 4606;office;;4176.0,830.5;null;null
+p193;STAIR SC35;stair;;4031.0,881.5;null;null
+p194;ROOM 4607;office;;4216.5,745.5;null;null
+p195;ROOM 4606D;office;;4239.0,852.0;null;null
+p196;ROOM 4606C;office;;4196.5,872.5;null;null
+p197;ROOM 4606B;office;;4155.0,872.0;null;null
+p198;ROOM 4619;classroom;;4331.0,975.5;null;http://seatplan.ust.hk/?room=4619
+p199;ROOM 4620;classroom;;4331.0,1142.5;null;http://seatplan.ust.hk/?room=4620
+p200;STAIR SC36;stair;;4496.0,997.5;null;null
+p201;LIFT 31;lift;;4595.5,926.5;null;null
+p202;LIFT 32;lift;;4595.5,960.0;null;null
+p203;ROOM 4621;classroom;;4332.0,1310.5;null;http://seatplan.ust.hk/?room=4621
+p204;ROOM 4334;classroom;http://seatplan.ust.hk/?room=4334;662.0,987.0;null;null
+p205;ROOM 4333A-B;classroom;4333,4333A,4333B;662.5,1142.0;null;null
+p206;ROOM 4332B-E;office;4332,4332B,4332C,4332D,4332E;661.5,1277.5;null;null
+p207;ROOM 4332A;classroom;;661.5,1373.0;null;null
+p208;ROOM 4331;classroom;;637.0,1446.25;null;null
+p209;STAIR SC05;stair;;150.5,2093.75;null;null
+p210;LIFT 4;lift;;196.75,2026.0;null;null
+p211;ROOM 4401;office;;1612.5,1360.5;null;null
+p212;MALE TOILET;male toilet;MALE TOILET;845.0,642.5;null;null
+p213;ROOM4566-4572;;DEPARTMENT OF CHEMICAL BIOMOLECULAR ENGINEERING , 4566, 4567, 4568, 4569, 4570, 4571, 4572;3437.0,821.5;null;null
+p214;ROOM 4599 - 4600;office;ROOM 4599,ROOM 4660;3865.0,746.5;null;null
+p215;MALE TOILET;male toilet;MALE TOILET;4018.5,839.5;null;null
+p216;FEMALE TOILET;female toilet;FEMALE TOILET;4575.5,1020.0;null;null
+p217;STAIR SC38;stair;;4519.5,1344.0;null;null
+p218;STAIR SC06;stair;;675.0,1529.25;null;null
+p219;LIFT 3;lift;;759.25,1523.5;null;null
+p220;FEMALE TOILET;female toilet;FEMALE TOILET;714.0,1628.5;null;null
+p221;ROOM 4001 - 4004;office;ROOM 4001, ROOM 4002, ROOM 4003, ROOM 4004;176.5,2225.25;null;null
+p222;ROOM 4015;office;;797.25,1479.75;null;null
+p223;ROOM 4016;office;;855.5,1510.0;null;null
+p224;ROOM 4017;office;;864.0,1551.5;null;null
+p225;ROOM 4018;office;;997.75,1500.5;null;null
+p226;ROOM 4020;office;;1158.75,1507.25;null;null
+p227;ROOM 4021;office;;1243.5,1491.75;null;null
+p228;LIFT 2;lift;;1275.0,1521.25;null;null
+p229;MALE TOILET;male toilet;MALE TOILET;1319.0,1628.5;null;null
+p230;STAIR SC07;stair;;1359.25,1530.0;null;null
+p231;ROOM 4035;office;;1753.0,2049.25;null;null
+p232;LIFT 1;lift;;1837.0,2024.0;null;null
+p233;STAIR SC08;stair;;1884.25,2093.0;null;null
+p234;FEMALE TOILET;female toilet;;1776.25,2114.25;null;null
+p235;STAIR SC09;stair;;1979.0,2493.0;null;null
+p236;ROOM 4092;lab;;1507.5,1467.0;null;null
+p237;ROOM 4093;lab;;1591.0,1465.5;null;null
+p238;ROOM 4094;lab;;1675.0,1466.5;null;null
+p239;ROOM 4095;lab;;1674.5,1549.0;null;null
+p240;ROOM 4096;null;null;1575.25,1567.0;null;null
+p241;ROOM 4091;lab;;1506.75,1531.75;null;null
+p242;ROOM 4098;lab;;1633.0,1628.75;null;null
+p244;ROOM 4106;lab;;1800.0,1528.5;null;null
+p245;ROOM 4101;lab;;1737.0,1666.0;null;null
+p246;ROOM 4105;lab;;1779.5,1664.5;null;null
+p247;ROOM 4104;lab;;1851.5,1664.0;null;null
+p248;ROOM 4109;lab;;1966.5,1528.5;null;null
+p249;ROOM 4108;lab;;1924.5,1664.0;null;null
+p250;ROOM 4107;lab;;1977.5,1664.5;null;null
+p251;ROOM 4107A;lab;;2029.5,1664.5;null;null
+p252;ROOM 4112;lab;;2092.0,1466.0;null;null
+p253;ROOM 4111;lab;;2092.0,1549.5;null;null
+p254;ROOM 4113;lab;;2175.0,1466.0;null;null
+p255;ROOM 4114;lab;;2175.0,1550.0;null;null
+p256;ROOM 4110B;lab;;2185.5,1644.0;null;null
+p257;ROOM 4110;lab;;2101.5,1643.0;null;null
+p258;ROOM 4116A;lab;;2415.0,1674.5;null;null
+p259;ROOM 4116B;lab;;2488.0,1675.0;null;null
+p260;ROOM 4116C;lab;;2415.0,1632.0;null;null
+p261;ROOM 4116D;lab;;2487.5,1633.0;null;null
+p262;ROOM 4116;lab;;2447.0,1560.0;null;null
+p263;ROOM 4117;lab;;2583.5,1560.0;null;null
+p264;ROOM 4118;lab;;2738.0,1486.5;null;null
+p265;ROOM 4119;lab;;2729.0,1644.0;null;null
+p266;ROOM 4120;lab;;2833.0,1643.5;null;null
+p267;ROOM 4121;lab;;2863.0,1487.0;null;null
+p268;ROOM 4123;lab;;2947.0,1519.0;null;null
+p269;ROOM 4124;lab;;2946.0,1455.5;null;null
+p270;ROOM 4126;lab;;3030.0,1486.5;null;null
+p271;ROOM 4122;lab;;2937.0,1643.5;null;null
+p272;ROOM 4125;lab;;3041.0,1643.0;null;null
+p273;ROOM 4127;lab;;3124.0,1633.0;null;null
+p274;ROOM 4128;lab;;3123.0,1486.5;null;null
+p275;ROOM 4130A;lab;;3186.0,1519.0;null;null
+p276;ROOM 4130B;lab;;3185.5,1455.5;null;null
+p277;ROOM 4129;lab;;3185.5,1633.5;null;null
+p278;ROOM 4133;lab;;3258.0,1518.5;null;null
+p279;ROOM 4134;lab;;3257.5,1455.5;null;null
+p280;ROOM 4137;lab;;3342.0,1488.0;null;null
+p281;ROOM 4132;lab;;3268.5,1602.0;null;null
+p282;ROOM 4131;lab;;3268.0,1664.5;null;null
+p283;ROOM 4135;lab;;3331.0,1633.0;null;null
+p284;ROOM 4138;lab;;3415.0,1643.0;null;null
+p285;ROOM 4139;lab;;3425.5,1519.0;null;null
+p286;ROOM 4140;lab;;3424.5,1456.0;null;null
+p287;ROOM 4141;lab;;3509.5,1486.5;null;null
+p288;ROOM 4142;lab;;3571.0,1642.5;null;null
+p289;ROOM 4144;lab;;3636.5,1486.5;null;null
+p290;ROOM 4146;lab;;3718.5,1519.5;null;null
+p291;ROOM 4147;lab;;3718.5,1455.5;null;null
+p293;ROOM 4145;lab;;3709.0,1644.0;null;null
+p294;ROOM 4230B;lab;;3582.0,1831.5;null;null
+p295;ROOM 4230A;lab;;3760.0,1760.5;null;null
+p296;ROOM 4230;lab;;3664.5,1851.5;null;null
+p297;ROOM 4102;lab;;1762.25,1757.25;null;null
+p298;ROOM 4103;lab;;1811.0,1767.5;null;null
+p299;STAIR SC10;stair;;1908.5,1790.5;null;null
+p300;STAIR SC11;stair;;2147.5,1784.0;null;null
+p301;MALE TOILET;male toilet;MALE TOILET;2088.5,1784.0;null;null
+p302;LIFT 19;lift;;2195.5,1814.0;null;null
+p303;ROOM 4219A;lab;;2288.5,1904.0;null;null
+p304;ROOM 4219;lab;;2361.0,1809.5;null;null
+p305;ROOM 4218B;lab;;2278.0,1997.5;null;null
+p306;ROOM 4218C;lab;;2320.0,1998.0;null;null
+p307;ROOM 4218G;lab;;2341.5,2081.5;null;null
+p308;ROOM 4217A;lab;;2404.0,2081.0;null;null
+p309;ROOM 4218H;lab;;2446.0,2080.5;null;null
+p310;ROOM 4217C;lab;;2383.0,2164.5;null;null
+p311;ROOM 4217D;lab;;2310.0,2165.0;null;null
+p312;ROOM 4217E;lab;;2300.0,2122.0;null;null
+p313;ROOM 4217B;lab;;2423.5,2122.0;null;null
+p314;ROOM 4217;lab;ROOM 4217;2361.0,2122.5;null;null
+p315;ROOM 4207;lab;;2361.0,2269.5;null;null
+p316;ROOM 4216;lab;;2519.0,1987.5;null;null
+p317;ROOM 4220;lab;;2519.5,1841.0;null;null
+p318;ROOM 4221;lab;;2677.5,1811.0;null;null
+p319;ROOM 4214;lab;;2677.0,1957.0;null;null
+p320;STAIR SC22;stair;;2888.5,1784.0;null;null
+p321;FEMALE TOILET;female toilet;FEMALE TOILET;3077.5,1783.5;null;null
+p322;STAIR SC23;stair;;3150.0,1789.5;null;null
+p323;LIFT 22;lift;;3195.5,1813.5;null;null
+p324;ROOM 4227A;lab;;3300.0,1768.5;null;null
+p325;ROOM 4228;lab;;3384.5,1810.5;null;null
+p326;ROOM 4227;lab;;3299.5,1841.0;null;null
+p327;ROOM 4226C;lab;ROOM 4226C;3304.0,2005.5;null;null
+p328;ROOM 4226B;lab;;3341.0,1965.0;null;null
+p329;ROOM 4223B;lab;ROOM 4223B;3446.0,2081.0;null;null
+p330;ROOM 4223A;lab;;3446.5,2321.5;null;null
+p331;ROOM 4223;lab;;3361.5,2310.0;null;null
+p332;ROOM 4222A;lab;;3361.5,2635.5;null;null
+p333;STAIR CS27;stair;;3147.5,2509.5;null;null
+p334;ROOM 4229;lab;;3488.5,1821.5;null;null
+p335;ROOM 4226;lab;;3488.0,1977.5;null;null
+p336;ROOM 4225A;lab;;3530.5,2175.0;null;null
+p337;ROOM 4225B;lab;;3530.0,2330.5;null;null
+p338;ROOM 4225;lab;;3688.0,2268.5;null;null
+p339;ROOM 4225C;lab;;3697.5,2039.0;null;null
+p340;ROOM 4224B;lab;;3519.5,2414.0;null;null
+p341;ROOM 4224A;lab;;3518.5,2508.0;null;null
+p342;ROOM 4224C;lab;ROOM 4224C;3592.5,2544.0;null;null
+p343;ROOM 4224;lab;;3676.5,2450.0;null;null
+p344;ROOM 4222;lab;;3623.0,2634.5;null;null
+p345;ROOM 4222B;lab;;3802.0,2638.0;null;null
+p346;STAIR SC30;stair;;3892.0,2510.0;null;null
+p347;LIFT 24;lift;;3899.0,2181.0;null;null
+p348;STAIR SC29;stair;;3867.5,2229.0;null;null
+p349;ROOM 4149-4150;lab;4149,4150;3917.0,1560.0;null;null
+p350;LIFT 20;lift;;2141.0,2181.5;null;null
+p351;STAIR SC20;stair;;2163.0,2230.0;null;null
+p352;FEMALE TOILET;female toilet;FEMALE TOILET;2167.5,2300.0;null;null
+p353;STAIR SC21;stair;;2147.5,2511.0;null;null
+p354;ROOM 4202A;lab;ROOM 4202A;2288.5,2676.0;null;null
+p355;ROOM 4201;lab;;2309.5,2559.5;null;null
+p356;ROOM 4202;lab;;2413.0,2614.5;null;null
+p357;ROOM 4203;lab;;2519.0,2614.0;null;null
+p358;ROOM 4206;lab;;2361.5,2436.0;null;null
+p359;ROOM 4208;lab;;2519.0,2436.0;null;null
+p360;ROOM 4211;lab;;2624.5,2434.5;null;null
+p361;ROOM 4212;lab;;2728.0,2435.0;null;null
+p362;ROOM 4204;lab;;2625.0,2614.0;null;null
+p363;ROOM 4205;lab;;2728.5,2614.5;null;null
+p364;ROOM 4205A;lab;;2797.0,2605.5;null;null
+p365;STAIR SC25;stair;;2889.0,2506.5;null;null
+p366;MALE TOILET;male toilet;MALE TOILET;2885.5,2311.5;null;null
+p367;STAIR SC24;stair;;2867.5,2229.5;null;null
+p368;LIFT 21;lift;;2886.0,2179.0;null;null
+p369;LIFT 23;lift;;3150.0,2181.0;null;null
+p370;STAIR SC26;stair;;3164.5,2231.0;null;null
+p371;ROOM 4222C;lab;ROOM 4222C;3236.5,2655.5;null;null
+p372;STAIR SC40;stair;;4198.0,1792.5;null;null
+p373;MALE TOILET;male toilet;MALE TOILET;4141.0,1784.0;null;null
+p374;STAIR SC28;stair;;3889.0,1783.5;null;null
+p375;STAIR SC13;stair;STAIR SC13;2018.5,1336.0;null;null
+p376;MALE TOILET;male toilet;MALE TOILET;3172.5,2300.0;null;null
+p377;FEMALE TOILET;female toilet;FEMALE TOILET;3867.5,2299.5;null;null
+p378;STAIR SC17;stair;STAIR SC17;3019.5,1290.0;null;null
+p379;DRINKING FOUNTAIN;drinking fountain;;1216.0,708.5;null;null
+p380;DRINKING FOUNTAIN;drinking fountain;;665.75,1610.5;null;null
+p381;DRINKING FOUNTAIN;drinking fountain;;1554.5,1314.0;null;null
+p382;DRINKING FOUNTAIN;drinking fountain;;2556.0,1314.5;null;null
+p383;DRINKING FOUNTAIN;drinking fountain;;3557.0,1315.5;null;null
+p384;STAIR;stair;;1374.75,1476.25;null;null
+p385;LIFT 33;lift;;4298.0,1793.5;null;null
+p386;ROOM 4579-4580;;BARN C, BARN C, ROOM 4579, ROOM 4580, ROOM 4580A;3331.0,1083.0;null;null
+p387;ROOM 4221A;;;2762.0,1812.0;null;null
+p388;ROOM 4214A;;;2750.5,1958.0;null;null
+p389;ROOM 4115 - ROOM 4115A;;;2322.5,1532.5;null;null
+p390;ROOM 4115;;;2322.5,1668.0;null;null
+p391;4160;;;4187.0,1561.0;null;null
+p392;4161A;;;4365.0,1487.0;null;null
+p393;4161B;;;4364.0,1623.0;null;null
+p394;ROOM 4340;;null;597.5,756.5;null;null
+p395;ROOM 4341;;null;650.5,745.5;null;null
+p396;ROOM 4342;;null;723.0,755.5;null;null
+p397;ROOM 4347;;null;869.5,758.0;null;null
+p398;ROOM 4348;;null;934.0,778.0;null;null
+p399;ROOM 4350;;null;944.0,716.0;null;null
+p400;ROOM 4365;;null;985.5,708.0;null;null
+p401;ROOM 4359;;null;1027.0,707.0;null;null
+p402;ROOM 4365;;null;1068.0,710.5;null;null
+p403;ROOM 4364;;null;1118.5,718.0;null;null
+p404;ROOM 4363;;null;1129.5,778.5;null;null
+p405;ROOM 4355;;null;995.0,788.5;null;null
+p406;ROOM 4360;;null;1061.0,792.0;null;null
+p407;ROOM 4368;;;1185.5,759.0;null;null
+p408;ROOM 4374;;null;1285.0,830.0;null;null
+p409;ROOM 4373;;null;1307.0,777.5;null;null
+p410;ROOM 4376;;null;1400.0,778.5;null;null
+p411;ROOM 4371;;null;1289.5,724.0;null;null
+p412;ROOM 4012;;null;584.5,1561.0;null;null
+p413;ROOM 4011;;null;675.75,1656.5;null;null
+p414;ROOM 4010;;null;629.75,1682.5;null;null
+p415;ROOM 4009;;null;583.0,1709.25;null;null
+p416;ROOM 4013;;null;626.75,1606.75;null;null
+p417;ROOM 4008;;null;467.75,1800.25;null;null
+p418;ROOM 4007;;null;401.75,1869.25;null;null
+p419;ROOM 4005;;null;263.25,1967.5;null;null
+p420;ROOM 4026;;null;1432.5,1554.5;null;null
+p421;ROOM 4027;;null;1416.75,1625.75;null;null
+p422;ROOM 4028;;null;1505.25,1644.5;null;null
+p423;ROOM 4029;;null;1633.5,1750.5;null;null
+p424;ROOM 4030;;null;1731.5,1864.0;null;null
+p425;ROOM 4032;;null;1811.25,1927.5;null;null
+p426;ROOM 4033;;null;1836.0,1970.75;null;null
+p427;ROOM 4218;;;2371.5,1957.5;null;null
+p428;ROOM 4218D;;;2435.5,1955.5;null;null
+p429;ROOM 4215;;;2516.0,2112.0;null;null
+p430;ROOM 4209;;;2518.5,2294.5;null;null
+p431;ROOM 4213;;;2675.5,2124.0;null;null
+p432;ROOM 4210;;;2675.5,2269.5;null;null
+p433;ROOM 4592;;;3697.5,654.0;null;null
+p434;ROOM 4597;;;3760.5,679.5;null;null
+p435;ROOM 4593;;;3622.5,669.0;null;null
+p436;ROOM 4594;;;3622.5,567.5;null;null
+p437;ROOM 4595;;;3749.5,557.0;null;null
+p438;ROOM 4596;;;3759.5,608.0;null;null
+p439;ROOM 4601-4602;;;3916.0,851.5;null;null
+p440;Cheng Yu Tung Building Entrance;cross building connector;;4603.0,1409.5;null;null
+p441;ROOM 4380;;IPO Learning Commons A;1356.0,946.0;null;null
+p442;ROOM 4380A;;;1429.0,920.5;null;null
+p443;ROOM 4380B;;;1431.0,973.0;null;null
+p444;ROOM 4006;;;400.75,1737.25;null;null
+p445;ROOM 4587;;;3687.5,932.0;null;null
+p446;ROOM 4585B;;;3686.5,891.0;null;null
+p447;ROOM 4588;;;3749.0,931.0;null;null
+p448;ROOM 4589A;;;3761.0,994.5;null;null
+p449;ROOM 4589;;;3698.0,1010.0;null;null
+p450;4590A;;;3597.5,1013.0;null;null

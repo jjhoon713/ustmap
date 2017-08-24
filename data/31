@@ -1,0 +1,40 @@
+-0.0037310144330940653
+0.15933865570463976
+0.0037720603941314838
+-89.13486081017449
+p0;ESCALATOR;escalator;;1227.0,915.0;null;null
+p1;LIFT 3;lift;;1826.0,1152.0;null;null
+p2;LIFT 4;lift;;1826.0,1197.0;null;null
+p3;LIFT 1;lift;;1060.0,505.75;null;null
+p4;LIFT 2;lift;;1073.75,550.25;null;null
+p5;male toilet;male toilet;;583.5,664.0;null;null
+p6;ROOM 1011;;LSK 1011, LSK1011;559.0,484.25;null;http://seatplan.ust.hk/?room=lsk1011
+p7;ROOM 1010;;LSK 1010, LSK1010;708.25,438.0;null;http://seatplan.ust.hk/?room=lsk1010
+p8;ROOM 1009;;LSK 1009, LSK1009;856.5,393.5;null;http://seatplan.ust.hk/?room=lsk1009
+p9;ROOM 1014;;LSK 1014, LSK1014;776.0,671.75;null;http://seatplan.ust.hk/?room=lsk1014
+p10;ROOM 1015;;LSK 1015, LSK1015;882.75,604.0;null;null
+p11;ROOM 1016;;LSK 1016, LSK1016;906.5,684.0;null;null
+p12;female toilet;female toilet;;961.25,588.5;null;null
+p13;ROOM 1020;;LSK 1020, LSK1020;1121.5,631.0;null;null
+p14;ROOM 1007;;LSK 1007, LSK1007;1151.5,299.25;null;http://seatplan.ust.hk/?room=lsk1007
+p15;ROOM 1005;;LSK 1005, LSK1005;1383.25,488.5;null;null
+p16;ROOM 1003;;LSK 1003, LSK1003;1517.25,881.5;null;null
+p17;ROOM 1001;;LSK 1001, LSK1001;987.25,1097.5;null;null
+p18;ROOM 1027;;LSK 1027, LSK1027;1213.5,1000.5;null;http://seatplan.ust.hk/?room=lsk1027
+p19;ROOM 1026;;LSK 1026, LSK1026;1324.0,999.75;null;http://seatplan.ust.hk/?room=lsk1026
+p20;male toilet;male toilet;;1203.75,1175.5;null;null
+p21;female toilet;female toilet;;1187.0,1258.0;null;null
+p22;ROOM 1032;;LSK 1032, LSK1032;1327.5,1219.5;null;http://seatplan.ust.hk/?room=lsk1032
+p23;ROOM 1033;;LSK 1033, LSK1033;1444.5,1216.5;null;http://seatplan.ust.hk/?room=lsk1033
+p24;ROOM 1034;;LSK 1034, LSK1034;1595.0,1220.0;null;http://seatplan.ust.hk/?room=lsk1034
+p25;ROOM 1035;;LSK 1035, LSK1035;1539.5,1033.75;null;null
+p26;ROOM 1036;;LSK 1036, LSK1036;1639.0,1017.0;null;null
+p27;ROOM 1037;;LSK 1037, LSK1037;1793.0,1022.0;null;null
+p29;ROOM 1040;;LSK 1040, LSK1040;2088.0,824.25;null;null
+p30;ROOM 1042;;LSK 1042, LSK1042;2069.5,1087.5;null;null
+p31;female toilet;female toilet;;1712.5,1187.0;null;null
+p32;male toilet;male toilet;;1714.5,1265.0;null;null
+p33;LSK Entrance (near IAS);cross building connector;;2187.5,1171.5;null;null
+p34;STAIR NABST1;stair;;686.25,744.5;null;null
+p35;STAIR NABST2;stair;;1184.5,576.5;null;null
+p36;STAIR ST03;stair;;1247.25,1242.0;null;null

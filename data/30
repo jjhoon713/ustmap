@@ -1,0 +1,38 @@
+-0.0037269707035784286
+0.4563829384642751
+0.003767142453591547
+-90.13924197076469
+p0;LSK Entrance;cross building connector;;508.5,1103.0;null;null
+p1;ROOM G012;;;671.5,830.0;null;null
+p2;STAIR NABST1;stair;;950.5,815.25;null;null
+p3;male toilet;male toilet;;906.5,727.25;null;null
+p4;ROOM G011;;;825.5,564.25;null;null
+p5;ROOM G010;;;976.75,518.75;null;null
+p6;ROOM G009;;;1125.25,474.5;null;null
+p7;ROOM G021;;;1086.75,742.0;null;null
+p8;female toilet;female toilet;;1229.5,669.25;null;null
+p9;LIFT 2;lift;;1341.25,631.0;null;null
+p10;LIFT 1;lift;;1328.0,586.0;null;null
+p11;ROOM G007;;;1429.75,385.0;null;http://seatplan.ust.hk/?room=lskg007
+p12;ROOM G005;;;1652.5,567.5;null;null
+p13;STAIR NABST2;stair;;1454.25,663.5;null;null
+p14;ROOM G034;;;1414.5,1068.5;null;null
+p15;ROOM G033;;;1469.0,1069.5;null;null
+p16;ROOM G040;;;1467.5,1174.5;null;null
+p17;ROOM G041;;;1519.5,1175.5;null;null
+p18;ROOM G042;;;1570.0,1175.5;null;null
+p19;ROOM G031;;;1560.0,1035.5;null;null
+p20;ROOM G055;;;1452.0,1285.5;null;null
+p21;ROOM G035;;;1377.5,1306.0;null;null
+p22;ROOM G036;;;1445.0,1353.0;null;null
+p23;G001, G002;;;1254.75,1179.5;null;null
+p24;ROOM G003;;;1783.0,968.0;null;null
+p25;Food Court;restaurant;;2199.25,1041.25;null;null
+p26;female toilet;female toilet;;1981.0,1274.5;null;null
+p27;male toilet;male toilet;;1980.0,1345.5;null;null
+p28;LIFT 3;lift;;2095.5,1230.5;null;null
+p29;LIFT 4;lift;;2095.0,1278.0;null;null
+p30;ESCALATOR;escalator;null;1426.5,996.0;null;null
+p32;STAIR NABST3;stair;;1509.5,1322.5;null;null
+p33;STAIR NABST4;stair;;2195.0,1324.0;null;null
+p34;LSK Entrance (near IAS);cross building connector;;2241.5,757.0;null;null

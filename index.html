@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>USTmap</title>
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta charset="utf-8">
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- Compiled and minified JavaScript -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+  <style>
+    /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+    #map {
+      height: 100%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    input[type="search"] {
+      height: 100% !important;
+      /* or height of nav */
+    }
+  </style>
+</head>
+
+<body>
+  <div style="width:100%;height:100%;">
+    <nav style="position:fixed;z-index: 2;">
+      <div class="nav-wrapper">
+        <form>
+          <div class="input-field">
+            <input id="search" type="search" onfocusin="searchFocusIn();" autocomplete="off" oninput="searchChange();" onclick="isCardEmpty();" required>
+            <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+            <i class="material-icons" onclick="searchFocusOut();">close</i>
+          </div>
+        </form>
+      </div>
+      <div class="row" id="search_card" style="visibility:hidden">
+        <div class="col s12">
+          <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+
+              <div id="empty_card">
+                <div class="hide-on-small-only">
+                  <h4 class="center-align">How To Use</h4>
+                  <p class="center-align">
+                    First, look for the closest lift to the target room.<br /> Second, find a way to get to that lift, and go to the floor where the room is located.
+                    <br /> Third, go to the room from the lift.
+                  </p>
+                  <div class="center-align">
+                    <h5>To save data usage, try offline app.</h5>
+                    <a href="https://play.google.com/store/apps/details?id=ingk.ustmap" target="_blank">
+                  <img src="img/ps_link.png" class="center-align" width="15%"  /></a>
+                  </div>
+                </div>
+                <div class="hide-on-med-and-up">
+
+                  <h4 class="center-align">How To Use</h4>
+
+                  <p class="left-align" style="line-height: 1.1">
+                    1. Look for the closest lift to the target room.
+                    <br />
+                    <br /> 2. Find a way to get to that lift.
+                    <br />
+                    <br /> 3. Go to the floor where the room is located.
+                    <br />
+                    <br /> 4. Go to the room from the lift.
+                  </p>
+                  <br />
+                  <div class="center-align row">
+                    <h5>Offline app.</h5>
+                    <a href="https://play.google.com/store/apps/details?id=ingk.ustmap" target="_blank">
+                    <img src="img/ps_link.png" class="center-align" width="50%"  /></a>
+                  </div>
+                  <a href="info.txt" class="right-align red" style="margin:0px;padding:0px">
+                    <p class="red" style="line-height:0">
+                      info
+                    </p>
+                  </a>
+
+
+                </div>
+              </div>
+
+
+              <div id="searches" style="display:none">
+                <div class="row valign-wrapper">
+                  <p class="card-title col s12">Search Result</p>
+                </div>
+                <div id="search_results" class="row">
+                </div>
+
+              </div>
+
+              <div id="historys" style="display:none">
+
+                <div class="row valign-wrapper">
+                  <p class="card-title col s10">Search History</p>
+                  <a class="col s2  align-vertical" style="line-height:1;" onclick="removeHistory();">delete</a>
+                </div>
+                <div id="history_results" class="row">
+                </div>
+              </div>
+
+              <div id="pgbar" class="center-align" hidden>
+                <div class="preloader-wrapper big active">
+                  <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                      <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                      <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                      <div class="circle"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <a id="floor_btn" class='dropdown-button btn right' style="position:fixed;z-index: 1;right: 20px; top: 70px" data-beloworigin="true" href='#' data-activates='floor_dropdown'>G</a>
+    <ul id='floor_dropdown' class='dropdown-content'>
+      <li><a href="#!">one</a></li>
+    </ul>
+    <a id="building_btn" class='dropdown-button btn left' style="position:fixed;z-index: 1;left: 20px; top: 70px" data-beloworigin="true" href='#' data-activates='building_dropdown'>G</a>
+    <ul id='building_dropdown' class='dropdown-content'>
+      <li><a href="#!">one</a></li>
+    </ul>
+    <div id="map" onfocusin="searchFocusOut();" />
+  </div>
+  <script src="cookie.min.js"></script>
+  <script src="map.min.js"></script>
+  <script>
+    $('.dropdown-button').dropdown({
+      inDuration: 300,
+      outDuration: 225,
+      constrainWidth: false, // Does not change width of dropdown to that of the activator
+      hover: false, // Activate on hover
+      gutter: 0, // Spacing from edge
+      belowOrigin: false, // Displays dropdown below the button
+      alignment: 'left', // Displays dropdown with edge aligned to the left of button
+      stopPropagation: false // Stops event propagation
+    });
+
+
+
+    var xhr = new window.XMLHttpRequest();
+    var floorIds = getFloorIds();
+    var map;
+    var markers = [];
+
+    var initLat = -2.578680157370298;
+    var initLng = -84.41776044666767;
+    var initZoom = 8;
+
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map'), {
+        center: {
+          lat: -2.578680157370298,
+          lng: -84.41776044666767
+        },
+        zoom: 8,
+        streetViewControl: false,
+        mapTypeId: floorIds[0],
+        mapTypeControl: false,
+        fullscreenControlOptions: {
+          position: google.maps.ControlPosition.LEFT_BOTTOM
+        },
+        zoomControl: false,
+        fullscreenControl: true,
+        disableDoubleClickZoom: true
+      });
+
+
+      var MapType = function(building, floor) {
+
+        name = buildings[building] + "-" + getFloors(building)[floor];
+
+        if (building == 0) {
+          maxZoom = 10;
+        } else {
+          maxZoom = 8;
+        }
+
+        return new google.maps.ImageMapType({
+          getTileUrl: function(coord, zoom) {
+            var bound = Math.pow(2, zoom);
+            return getSrc(building, floor, zoom, coord)
+          },
+          tileSize: new google.maps.Size(256, 256),
+          maxZoom: maxZoom,
+          minZoom: 0,
+          radius: 1738000,
+          name: name,
+          rotateControl: true,
+          rotateControlOptions: true
+        });
+      }
+
+      for (i = 0; i < buildings.length; i++) {
+        for (j = 0; j < getFloors(i).length; j++) {
+          map.mapTypes.set(i + "" + j, MapType(i, j));
+        }
+      }
+
+      initBuildingDropdowns();
+      changeBuilding(0);
+      changeFloor(0, 5);
+
+      google.maps.event.addListener(map, 'dblclick', function(event) {
+        addMarker(event.latLng, map);
+      });
+
+      map.addListener('bounds_changed', function() {
+        if (map.getMapTypeId()[0] == 0) {
+          maxZoom = 9;
+        } else {
+          maxZoom = 8;
+        }
+        if (map.getZoom() < maxZoom - 1) {
+          hideAllMarkers(true, map.getBounds());
+          return;
+        } else {
+          hideAllMarkers(false, map.getBounds());
+        }
+      });
+
+            showHistory();
+    }
+
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCu4xEJS5rfXOgxyt47l6wdyLWKgII6pYE&callback=initMap" async defer></script>
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-105133143-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+
+
+<!--
+
+static private float maxZoom = 8.9f;
+static private float minZoom = 5.1f;
+static private double minLat = -11;
+static private double maxLat = 8;
+static private double minLon = -92.0;
+static private double maxLon = -76;
+
+-->
+
+</html>

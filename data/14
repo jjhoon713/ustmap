@@ -1,0 +1,33 @@
+-0.007620313834558634
+2.259420685759501
+0.007531446276385954
+-92.06058071107775
+p0;ROOM 3002;;CYT 3002, CYT3002;574.5,494.0;null;null
+p1;ROOM 3003;;CYT 3003, CYT3003;676.5,494.0;null;null
+p2;ROOM 3004;;CYT 3004, CYT3004;727.0,494.5;null;null
+p3;ROOM 3005;;CYT 3005, CYT3005;772.0,492.5;null;null
+p4;ROOM 3006;;CYT 3006, CYT3006;851.5,490.0;null;null
+p5;ROOM 3007B;;CYT 3007B, CYT3007B;536.5,845.5;null;null
+p6;ROOM 3007A;;CYT 3007A, CYT3007A;606.5,811.0;null;null
+p7;ROOM 3007C;;CYT 3007C, CYT3007C;583.5,893.5;null;null
+p8;ROOM 3007D;;CYT 3007D, CYT3007D;630.0,893.5;null;null
+p9;LIFT 35;lift;null;982.5,594.5;null;null
+p10;LIFT 36;lift;null;1026.5,593.0;null;null
+p11;stair;stair;null;1089.0,616.5;null;null
+p12;drinking fountain;drinking fountain;null;912.5,522.0;null;null
+p13;LIFT 37;lift;null;982.0,681.5;null;null
+p14;male toilet;male toilet;null;1026.5,772.5;null;null
+p15;female toilet;female toilet;null;1102.0,749.0;null;null
+p16;ROOM 3015;;CYT 3015, CYT3015;1047.0,891.0;null;null
+p17;ROOM 3014;;CYT 3014, CYT3014;1336.0,691.5;null;null
+p18;ROOM 3014A;;CYT 3014A, CYT3014A;1430.5,809.5;null;null
+p19;ROOM 3014D;;CYT 3014D, CYT3014D;1408.0,898.0;null;null
+p20;ROOM 3014B;;CYT 3014B, CYT3014B;1500.5,845.5;null;null
+p21;ROOM 3009;;CYT 3009, CYT3009;1185.0,493.0;null;null
+p22;ROOM 3010;;CYT 3010, CYT3010;1267.5,492.0;null;null
+p23;ROOM 3011;;CYT 3011, CYT3011;1314.0,491.5;null;null
+p24;ROOM 3012;;CYT 3012, CYT3012;1358.5,490.0;null;null
+p25;ROOM 3013;;CYT 3013, CYT3013;1462.5,492.5;null;null
+p26;stair;stair;null;539.5,984.5;null;null
+p27;stair;stair;null;1372.0,985.5;null;null
+p28;ROOM 3007;;CYT 3007, CYT3007;712.5,694.5;null;null

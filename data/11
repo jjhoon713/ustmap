@@ -1,0 +1,26 @@
+-0.007620313834558634
+2.259420685759501
+0.007531446276385954
+-92.06058071107775
+p0;ESCALATOR;escalator;null;787.0,406.0;null;null
+p1;STAIR CYT41;stair;null;413.0,928.0;null;null
+p2;STAIR CYT42;stair;null;530.0,994.0;null;null
+p3;STAIR CYT44;stair;null;509.0,650.5;null;null
+p4;Cheng Yu Tung Building Entrance;cross building connector;null;341.5,586.5;null;null
+p5;LIFT 35;lift;null;984.0,593.0;null;null
+p6;LIFT 36;lift;null;1027.0,592.5;null;null
+p7;STAIR CYT46;stair;null;1093.0,613.5;null;null
+p8;LIFT 37;lift;null;983.5,681.5;null;null
+p9;Male toilet;male toilet;null;1028.0,772.5;null;null
+p10;Female toilet;female toilet;null;1106.0,773.5;null;null
+p11;STAIR CYT45;stair;null;1056.5,914.0;null;null
+p12;ROOM UG001C;;CYTUG001C, CYT UG001C;1173.5,504.0;null;null
+p13;ROOM UG001A;;CYT UG001A, CYTUG001A;1173.0,555.0;null;null
+p14;ROOM UG001B;;CYT UG001B, CYTUG001B;1247.5,516.0;null;null
+p15;ROOM UG001;;CYT UG001, CYTUG001;1235.0,707.0;null;null
+p16;ROOM UG002;;CYT UG002, CYTUG002;1431.5,709.5;null;null
+p17;ROOM UG002B;;CYT UG002B, CYTUG002B;1420.0,521.0;null;null
+p18;STAIR CYT47;stair;null;1496.0,487.5;null;null
+p19;ROOM UG002A;;CYT UG002A, CYTUG002A;1493.5,551.5;null;null
+p20;Male toilet;male toilet;null;1532.5,880.0;null;null
+p22;STAIR CYT48;stair;null;1379.0,990.0;null;null

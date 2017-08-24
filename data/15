@@ -1,0 +1,33 @@
+-0.007620313834558634
+2.259420685759501
+0.007531446276385954
+-92.06058071107775
+p0;ROOM 4002;;CYT 4002, CYT4002;574.5,494.0;null;null
+p1;ROOM 4003;;CYT 4003, CYT4003;676.5,494.0;null;null
+p2;ROOM 4004;;CYT 4004, CYT4004;727.0,494.5;null;null
+p3;ROOM 4005;;CYT 4005, CYT4005;772.0,492.5;null;null
+p4;ROOM 4006;;CYT 4006, CYT4006;851.5,490.0;null;null
+p5;ROOM 4007B;;CYT 4007B, CYT4007B;536.5,845.5;null;null
+p6;ROOM 4007A;;CYT 4007A, CYT4007A;606.5,811.0;null;null
+p7;ROOM 4007C;;CYT 4007C, CYT4007C;583.5,893.5;null;null
+p8;LIFT 35;lift;null;982.5,594.5;null;null
+p9;LIFT 36;lift;null;1026.5,593.0;null;null
+p10;stair;stair;null;1089.0,616.5;null;null
+p11;drinking fountain;drinking fountain;null;912.5,522.0;null;null
+p12;LIFT 37;lift;null;982.0,681.5;null;null
+p13;male toilet;male toilet;null;1026.5,772.5;null;null
+p14;female toilet;female toilet;null;1102.0,749.0;null;null
+p15;ROOM 4015;;CYT 4015, CYT4015;1047.0,891.0;null;null
+p16;ROOM 4014;;CYT 4014, CYT4014;1336.0,691.5;null;null
+p17;ROOM 4014A;;CYT 4014A, CYT4014A;1430.5,809.5;null;null
+p18;ROOM 4014B;;CYT 4014B, CYT4014B;1500.5,845.5;null;null
+p19;ROOM 4009;;CYT 4009, CYT4009;1185.0,493.0;null;null
+p20;ROOM 4010;;CYT 4010, CYT4010;1267.5,492.0;null;null
+p21;ROOM 4011;;CYT 4011, CYT4011;1314.0,491.5;null;null
+p22;ROOM 4012;;CYT 4012, CYT4012;1358.5,490.0;null;null
+p23;ROOM 4013;;CYT 4013, CYT4013;1462.5,492.5;null;null
+p24;stair;stair;null;539.5,984.5;null;null
+p25;stair;stair;null;1372.0,985.5;null;null
+p26;ROOM 4007;;CYT 4007, CYT4007;712.5,694.5;null;null
+p27;ROOM 4014C;;CYT 4014C, CYT4014C;1454.5,894.0;null;null
+p28;Cheng Yu Tung Building Entrance;cross building connector;;345.0,589.5;null;null

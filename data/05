@@ -1,0 +1,87 @@
+-0.0020459144370176575
+0.12258016997435067
+0.0019823353054964385
+-89.88785124165915
+p0;LIFT 10;lift;;1953.5,702.5;null;null
+p1;LIFT 11;lift;;1988.0,703.0;null;null
+p2;LIFT 12;lift;;2019.5,703.5;null;null
+p3;Library;general;books, paper, copy;1854.0,946.0;r099319108524509;http://library.ust.hk/
+p4;STAIR SC01;stair;;1910.0,734.0;null;null
+p5;Observation Deck;;mushroom;2165.0,724.75;null;null
+p6;Chinese Restaurant;restaurant;;2458.0,973.5;r315446780037710;http://seatplan.ust.hk/?room=ChineseRestaurant
+p7;LIFT 13;lift;;2302.5,706.5;null;null
+p8;LIFT 14;lift;;2336.5,706.5;null;null
+p9;LIFT 15;lift;;2373.0,706.0;null;null
+p10;STAIR SC02;stair;;2420.0,728.0;null;null
+p11;Atrium;;Jockey club;2160.5,1267.0;r510411671545744;null
+p12;ESCALATOR;escalator;;2116.0,1086.5;null;null
+p13;ESCALATOR;escalator;;2204.5,1085.5;null;null
+p14;LIFT 17;lift;;2656.5,990.0;null;null
+p15;LIFT 18;lift;;2657.0,1024.0;null;null
+p16;STAIR SC03;stair;;2584.0,1054.0;null;null
+p17;FEMALE TOILET;female toilet;;2665.5,1074.5;null;null
+p18;MALE TOILET;male toilet;;2657.5,1214.5;null;null
+p19;ESCALATOR;escalator;;2568.0,1198.5;null;null
+p20;ESCALATOR;escalator;;2569.0,1233.5;null;null
+p21;LIFT 7;lift;;1133.0,1002.5;null;null
+p22;LIFT 9;lift;;1532.0,1011.5;null;null
+p23;MALE TOILET;male toilet;;1165.5,1078.5;null;null
+p24;STAIR;stair;;1375.5,726.0;null;null
+p25;Circulation and reserve;general;library;1662.0,1041.5;null;null
+p26;FEMALE TOILET;female toilet;;1257.5,1064.0;null;null
+p27;STAIR;stair;;1824.0,1430.0;null;null
+p28;STAIR;stair;;2161.0,1085.5;null;null
+p29;STAIR;stair;;2598.5,1300.0;null;null
+p30;LIFT 3;lift;;1923.5,1536.0;null;null
+p31;STAIR SC06;stair;;1841.5,1534.5;null;null
+p32;COMMERICAL PRESS BOOKSTORE;;G015, books, references, stationary;1755.0,1648.75;null;null
+p33;LIFT 2;lift;;2403.0,1536.75;null;null
+p34;STAIR SC07;stair;;2480.75,1535.0;null;null
+p35;Souvenir Shop;;souvenir, gift, G027;2773.75,1933.0;r713460130472892;null
+p36;LIFT 1;lift;;2916.0,1999.25;null;null
+p37;HANG SENG ATM;ATM;ATM, HangSeng,hang seng, Cash;2830.0,2386.5;null;null
+p38;BANK OF CHINA ATM;ATM;ATM, BOC;2856.0,2272.5;null;null
+p40;Bank of china;;bank, boc, G204, G205;2861.0,2215.0;null;null
+p41;Hang Seng Bank;;hangseng, bank, G201, G202;2862.5,2423.5;null;null
+p42;MALE TOILET;male toilet;;3090.5,1777.5;null;null
+p43;FEMALE TOILET;female toilet;;3148.5,1778.5;null;null
+p44;LIFT 19;lift;;3247.5,1805.0;null;null
+p45;FEMALE TOILET;female toilet;;4052.5,1785.0;null;null
+p46;STAIR SC23;stair;;4106.5,1795.5;null;null
+p47;LIFT 22;lift;;4174.0,1805.5;null;null
+p48;Sports Hall Audience Stand;;sports, hall;870.0,1850.0;r075081974543459;null
+p49;LIFT 6;lift;;1198.5,1709.0;null;null
+p50;LIFT 4;lift;;1403.5,2001.75;null;null
+p51;STAIR;stair;;1373.25,2086.0;null;null
+p52;LIFT 5;lift;;629.5,2318.0;null;null
+p53;STAIR SC08;stair;;2961.75,2063.0;null;null
+p54;STAIR SCL2;stair;;1220.0,997.0;null;null
+p55;STAIR SCL1;stair;;1396.0,997.5;null;null
+p56;STAIR SC05;stair;;1357.25,2050.5;null;null
+p57;G343;;;949.0,994.0;null;null
+p58;G341;;;1054.5,1011.0;null;null
+p59;DRINKING FOUNTAIN;drinking fountain;;1137.5,967.0;null;null
+p60;DRINKING FOUNTAIN;drinking fountain;;1992.5,786.5;null;null
+p61;EXPRESS STATION;express station;;1940.5,1503.0;null;null
+p62;MAILBOX;mailbox;;2784.5,2026.0;null;null
+p63;EXPRESS STATION;express station;;2834.5,2026.5;null;null
+p64;BANK OF ASIA ATM;ATM;;1369.0,2178.5;null;null
+p65;BANK OF ASIA;null;null;1382.25,2176.25;r753232353821902;null
+p66;DRINKING FOUNTAIN;drinking fountain;;3870.5,1728.5;null;null
+p67;LTA ;lecture hall;LTA, LT A, lecture hall, LECTURE THEATRE;3124.0,1605.0;null;null
+p68;LTC  ;lecture hall;LT C, lecture hall, LECTURE THEATRE;3649.0,1606.0;null;null
+p69;LTD ;lecture hall;LT D, lecture hall, LECTURE THEATRE;3900.0,1607.0;null;null
+p70;LTE ;lecture hall;LT E, lecture hall, LECTURE THEATRE;4093.0,1605.5;null;null
+p71;LTB ;lecture hall;LT B, lecture hall, LECTURE THEATRE;3436.5,1604.5;null;null
+p72;Library Garden;;;673.0,846.0;null;null
+p73;LIFT 34;;;781.5,1049.0;null;null
+p74;Atrium (Entrance);cross building connector;;2114.0,1657.5;null;null
+p75;G335A;;G335A;1538.5,893.5;null;null
+p76;Atrium entrance (near chinese restaurant);cross building connector;;2906.0,407.0;null;null
+p77;STAIR;stair;;1380.0,1873.0;null;null
+p78;STAIR;stair;;1548.25,1800.25;null;null
+p79;Security Center;;G023;2529.0,1595.25;null;null
+p80;Visitor Information Center;;G028;2642.25,1676.5;null;null
+p81;ROOM G030;;;2733.25,1747.0;null;null
+p82;Tsang Shiu Tim Art Hall;;G017;1433.5,1588.0;r248569327461366;seatplan.ust.hk/?room=G017
+p83;Starbucks Coffee;restaurant;;1634.5,1743.25;r661669603873017;null

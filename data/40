@@ -1,0 +1,19 @@
+-0.006235015089722428
+1.9194516758077527
+0.006250031605488112
+-90.48741644013579
+p0;UC Entrance (GF);cross building connector;;217.0,354.0;null;null
+p1;LIFT UC;lift;;825.5,541.0;null;null
+p2;STAIR UC;stair;;1066.0,453.5;null;null
+p3;STAIR UC 2;stair;;531.0,648.5;null;null
+p4;STAIR UC 3;stair;;1361.0,785.0;null;null
+p5;UniBar;restaurant;restaurant;271.5,470.0;null;null
+p6;UC Bistro;restaurant;restaurant;596.5,522.0;null;null
+p7;Female Toilet;female toilet;null;296.5,782.5;null;null
+p8;Male Toilet;male toilet;;369.0,755.5;null;null
+p9;Tin Ka Ping Hall;;TKPH;948.0,778.5;null;null
+p10;Quiet Room;;;1525.5,564.0;null;null
+p11;Quiet Lounge;;;1308.5,581.5;null;null
+p12;Reading Room;;;1657.0,595.0;null;null
+p13;Male Toilet;male toilet;;1576.0,692.5;null;null
+p14;Female Toilet;female toilet;;1581.0,784.0;null;null

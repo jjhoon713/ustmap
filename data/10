@@ -1,0 +1,34 @@
+-0.007620313834558634
+2.259420685759501
+0.007531446276385954
+-92.06058071107775
+p0;ROOM G011;;CYT G011, CYTG011;707.0,553.5;null;null
+p1;ROOM G012;;CYT G012, CYTG012;500.0,555.0;null;null
+p2;STAIR CYT44;stair;null;493.5,668.5;null;null
+p3;STAIR CYT44;stair;null;493.0,775.5;null;null
+p4;LTL;;CYT LTL, LT L;706.5,716.0;null;null
+p5;ROOM G014;;CYT G014, CYTG014;892.0,913.5;null;null
+p6;ROOM G016;;CYT G016, CYTG016;783.0,888.5;null;null
+p7;ROOM G015;;CYT G015, CYTG015;1000.5,889.0;null;null
+p8;ESCALATOR;escalator;null;766.5,407.0;null;null
+p9;Cheng Yu Tung Building Entrance;cross building connector;null;609.5,433.5;null;null
+p10;LIFT 35;lift;null;983.0,594.5;null;null
+p11;LIFT 36;lift;null;1029.0,593.5;null;null
+p12;STAIR CYT46;stair;null;1094.0,615.5;null;null
+p13;LIFT 37;lift;null;985.0,684.0;null;null
+p14;Male toilet;male toilet;null;1037.5,756.0;null;null
+p15;Female toilet;female toilet;null;1106.0,743.5;null;null
+p16;STAIR CYT45;stair;null;1056.0,912.5;null;null
+p17;ROOM G001;;CYT G001, CYTG001;1077.0,397.5;null;null
+p18;ROOM G002;;CYT G002, CYTG002;1188.5,394.5;null;null
+p19;ROOM G006;;CYT G006, CYTG006;1174.5,493.0;null;null
+p20;ROOM G003;;CYT G003, CYTG003;1285.5,395.5;null;null
+p21;ROOM G007;;CYT G007, CYTG007;1298.0,491.5;null;null
+p22;ROOM G004;;CYT G004, CYTG004;1381.5,394.0;null;null
+p23;ROOM G008;;CYT G008, CYTG008;1367.0,492.5;null;null
+p24;ROOM G005;;CYT G005, CYTG005;1479.5,396.5;null;null
+p25;STAIR CYT47;stair;null;1493.0,495.5;null;null
+p26;ROOM G009A;;CYT G009A, CYTG009A;1235.0,649.5;null;null
+p27;ROOM G009B;;CYT G009B, CYTG009B;1234.0,799.0;null;null
+p28;ROOM G010;;CYT G010, CYTG010;1431.5,718.0;null;null
+p29;STAIR CYT41;stair;null;412.0,931.5;null;null

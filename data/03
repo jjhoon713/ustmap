@@ -1,0 +1,50 @@
+-0.0018686184249521016
+-0.8265162821585251
+0.0018791023825035721
+-90.13823963579584
+p0;LIFT 10;lift;;2191.0,268.5;null;null
+p1;LIFT 11;lift;;2229.0,269.0;null;null
+p2;LIFT 12;lift;;2264.0,270.5;null;null
+p3;STAIR SC01;stair;;2141.0,294.0;null;null
+p4;LIFT 15;lift;;2637.0,268.5;null;null
+p5;STAIR SC02;stair;;2688.5,296.5;null;null
+p6;ESCALATOR;escalator;;2371.0,500.5;null;null
+p7;ESCALATOR;escalator;;2456.5,501.5;null;null
+p8;ESCALATOR;escalator;;2369.0,468.0;null;null
+p9;ESCALATOR;escalator;;2457.5,467.5;null;null
+p10;LIFT 3;lift;;2160.0,1161.75;null;null
+p11;STAIR SC06;stair;;2073.5,1162.25;null;null
+p12;MALE TOILET;male toilet;;2120.25,1277.75;null;null
+p13;STAIR;stair;;1933.5,1178.75;null;null
+p14;ROOM LG3002;;;1486.5,1357.5;null;null
+p15;LIFT 6;lift;;1390.0,1350.0;null;null
+p16;STAIR;stair;;1264.5,1428.0;null;null
+p17;female toilet and changing room;female toilet;;1485.25,1599.75;null;null
+p18;male toilet and changing room;male toilet;;1453.25,1765.25;null;null
+p19;ROOM LG 308;;;1112.5,613.5;null;null
+p20;ROOM LG307;;;1111.5,670.5;null;null
+p21;ROOM LG306;;;1154.0,682.5;null;null
+p22;ROOM LG305;;;1195.5,683.0;null;null
+p23;ROOM LG310;;;1206.0,599.0;null;null
+p24;ROOM LG 304;;;1236.5,682.0;null;null
+p25;ROOM LG302;;;1278.0,582.5;null;null
+p26;ROOM LG303;;;1277.0,682.0;null;null
+p27;LIFT 7;lift;;1317.5,590.0;null;null
+p28;STAIR SCL2;stair;;1419.0,584.5;null;null
+p29;ROOM LG311;;;1389.0,623.0;null;null
+p30;MALE TOILET;male toilet;;1375.5,669.5;null;null
+p31;FEMALE TOILET;female toilet;null;1452.0,657.0;null;null
+p32;ROOM LG312;;;1531.5,584.0;null;null
+p33;STAIR SCL1;stair;;1594.0,584.0;null;null
+p34;LIFT 9;lift;;1740.0,598.0;null;null
+p35;ROOM LG313;;;1789.0,599.0;null;null
+p36;ROOM LG314;;;1789.0,672.0;null;null
+p37;ROOM LG315;;;2035.0,370.0;null;null
+p38;ROOM LG316;;;2076.5,369.5;null;null
+p39;ROOM LG317;;;2128.0,371.0;null;null
+p40;Amenities Service Counter;null;null;1591.0,1428.5;r786511168881164;null
+p41;STAIR;stair;;1573.5,293.0;null;null
+p42;DRINKING FOUNTAIN;drinking fountain;;1287.0,551.5;null;null
+p43;DRINKING FOUNTAIN;drinking fountain;null;1641.5,1493.0;null;null
+p44;LG327;;;643.5,545.5;null;null
+p45;LIFT 34;lift;;947.0,640.0;null;null

@@ -1,0 +1,13 @@
+-0.004600123454522223
+-0.1587848795520679
+0.004816574836844828
+-89.81928733158023
+p0;IAS Entrance;cross building connector;;352.5,967.0;null;null
+p1;IAS LT;;;396.25,618.5;null;null
+p2;LIFT 5;lift;;846.5,749.5;null;null
+p3;LIFT 6;lift;;846.5,800.0;null;null
+p4;STAIR IAS2;stair;;926.0,762.5;null;null
+p5;STAIR IAS1;stair;;591.0,471.0;null;null
+p6;female toilet;female toilet;;905.5,475.0;null;null
+p7;male toilet;male toilet;;870.0,902.0;null;null
+p8;open auditorium;;;758.5,450.0;null;null

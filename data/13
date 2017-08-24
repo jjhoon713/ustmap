@@ -1,0 +1,33 @@
+-0.007620313834558634
+2.259420685759501
+0.007531446276385954
+-92.06058071107775
+p0;ROOM 2002;;CYT 2002, CYT2002;574.5,494.0;null;null
+p1;ROOM 2003;;CYT 2003, CYT2003;676.5,494.0;null;null
+p2;ROOM 2004;;CYT 2004, CYT2004;727.0,494.5;null;null
+p3;ROOM 2005;;CYT 2005, CYT2005;772.0,492.5;null;null
+p4;ROOM 2006;;CYT 2006, CYT2006;851.5,490.0;null;null
+p5;ROOM 2007B;;CYT 2007B, CYT2007B;536.5,845.5;null;null
+p6;ROOM 2007A;;CYT 2007A, CYT2007A;606.5,811.0;null;null
+p7;ROOM 2007C;;CYT 2007C, CYT2007C;583.5,893.5;null;null
+p8;ROOM 2007D;;CYT 2007D, CYT2007D;630.0,893.5;null;null
+p9;LIFT 35;lift;null;982.5,594.5;null;null
+p10;LIFT 36;lift;null;1026.5,593.0;null;null
+p11;stair;stair;null;1089.0,616.5;null;null
+p12;drinking fountain;drinking fountain;null;912.5,522.0;null;null
+p13;LIFT 37;lift;null;982.0,681.5;null;null
+p14;male toilet;male toilet;null;1026.5,772.5;null;null
+p15;female toilet;female toilet;null;1102.0,749.0;null;null
+p16;ROOM 2015;;CYT 2015, CYT2015;1047.0,891.0;null;null
+p17;ROOM 2014;;CYT 2014, CYT2014;1336.0,691.5;null;null
+p18;ROOM 2014A;;CYT 2014A, CYT2014A;1430.5,809.5;null;null
+p19;ROOM 2014D;;CYT 2014D, CYT2014D;1408.0,898.0;null;null
+p20;ROOM 2014B;;CYT 2014B, CYT2014B;1500.5,845.5;null;null
+p21;ROOM 2009;;CYT 2009, CYT2009;1185.0,493.0;null;null
+p22;ROOM 2010;;CYT 2010, CYT2010;1267.5,492.0;null;null
+p23;ROOM 2011;;CYT 2011, CYT2011;1314.0,491.5;null;null
+p24;ROOM 2012;;CYT 2012, CYT2012;1358.5,490.0;null;null
+p25;ROOM 2013;;CYT 2013, CYT2013;1462.5,492.5;null;null
+p26;stair;stair;null;539.5,984.5;null;null
+p27;stair;stair;null;1372.0,985.5;null;null
+p28;ROOM 2007;;CYT 2007, CYT2007;712.5,694.5;null;null

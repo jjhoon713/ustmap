@@ -1,0 +1,499 @@
+-0.0019239284443436056
+-0.1910464724
+0.0018582790450842543
+-87.5100054967
+p0;ROOM 3380;office;ROOM 3380;1003.0,694.75;null;null
+p1;LIFT 13;lift;LIFT 13;1182.0,593.5;null;null
+p2;LIFT 14;lift;LIFT 14;1218.0,591.0;null;null
+p3;STAIR SC02;stair;STAIR SC02;1303.5,608.0;null;null
+p4;STAIR SC08;stair;STAIR SC08;1891.25,2031.75;null;null
+p5;LIFT 15;lift;LIFT 15;1258.5,591.5;null;null
+p6;LIFT 3;lift;LIFT 3;780.5,1476.5;null;null
+p7;STAIR SC01;stair;STAIR SC01;759.0,610.5;null;null
+p8;ROOM 3358;office;ROOM 3358;767.0,880.0;null;null
+p9;ROOM 3357;office;ROOM 3357;767.5,919.5;null;null
+p10;ROOM 3356;office;ROOM 3356;767.0,962.0;null;null
+p11;ROOM 3350;office;ROOM 3350;767.0,1002.0;null;null
+p12;ROOM 3349;office;ROOM 3349;766.5,1044.5;null;null
+p13;ROOM 3348;office;ROOM 3348;766.0,1083.5;null;null
+p14;ROOM 3343;office;ROOM 3343;767.5,1124.0;null;null
+p15;ROOM 3346;office;ROOM 3346;633.0,1071.5;null;null
+p16;ROOM 3345;office;ROOM 3345;633.5,1133.5;null;null
+p17;ROOM 3344;office;ROOM 3344;686.0,1144.0;null;null
+p18;ROOM 3341;office;ROOM 3341;695.5,1194.5;null;null
+p19;ROOM 3338;office;ROOM 3338;633.5,1236.0;null;null
+p20;ROOM 3337;office;ROOM 3337;644.5,1287.5;null;null
+p21;ROOM 3334;office;ROOM 3334;696.0,1278.5;null;null
+p22;ROOM 3342;office;ROOM 3342;768.5,1164.5;null;null
+p23;ROOM 3340;office;ROOM 3340;767.5,1207.0;null;null
+p24;ROOM 3336;office;ROOM 3336;768.0,1247.0;null;null
+p25;ROOM 3335;office;ROOM 3335;767.0,1287.0;null;null
+p26;ROOM 3332;office;ROOM 3332;768.0,1329.5;null;null
+p27;ROOM 3333;office;ROOM 3333;655.0,1329.0;null;null
+p28;STAIR SC06;stair;STAIR SC06;694.5,1477.25;null;null
+p30;ROOM 3008;classroom;ROOM 3008;571.25,1585.5;null;http://seatplan.ust.hk/?room=3008
+p31;ROOM 3007;classroom;ROOM 3007;436.75,1689.25;null;http://seatplan.ust.hk/?room=3007
+p32;ROOM 3006;classroom;ROOM 3006;348.0,1786.25;null;http://seatplan.ust.hk/?room=3006
+p33;ROOM 3005;classroom;ROOM 3005;289.25,1870.25;null;null
+p34;LIFT 4;lift;LIFT 4;229.5,1967.75;null;null
+p35;STAIR SC05;stair;STAIR SC05;173.0,2031.75;null;null
+p36;ROOM 3001 - 3002;office;3001,3002;163.75,2096.25;null;null
+p37;MALE TOILET;male toilet;;740.25,1590.25;null;null
+p38;ROOM 3378;office;ROOM 3378;1002.0,829.0;null;null
+p39;ROOM 3383;office;ROOM 3383;1043.5,829.5;null;null
+p40;ROOM 3384;office;ROOM 3384;1083.0,829.0;null;null
+p41;ROOM 3385;office;ROOM 3385;1124.5,829.5;null;null
+p42;ROOM 3382;office;ROOM 3382;1074.0,757.0;null;null
+p43;ROOM 3381;office;ROOM 3381;1043.0,692.75;null;null
+p44;ROOM 3386;office;ROOM 3386;1083.75,694.75;null;null
+p45;ROOM 3388;office;ROOM 3388;1145.0,746.5;null;null
+p46;ROOM 3387;office;ROOM 3387;1135.0,695.75;null;null
+p47;ROOM 3392;office;ROOM 3392;1196.5,705.0;null;null
+p48;ROOM 3389;office;ROOM 3389;1165.5,828.5;null;null
+p49;ROOM 3390;office;ROOM 3390;1206.0,828.0;null;null
+p50;STAIR SC03;stair;STAIR SC03;1479.5,975.0;null;null
+p51;LIFT 17;lift;LIFT 17;1560.0,897.5;null;null
+p52;LIFT 18;lift;LIFT 18;1562.0,931.5;null;null
+p53;ROOM 3416;classroom;ROOM 3416;1635.0,910.0;null;null
+p54;ROOM 3412;classroom;ROOM 3412;1636.0,1011.5;null;null
+p55;ROOM 3408;classroom;ROOM 3408;1636.0,1114.5;null;null
+p56;ROOM 3405;classroom;ROOM 3405;1635.5,1203.5;null;null
+p57;STAIR SC04;stair;STAIR SC04;1536.0,1309.0;null;null
+p58;ROOM 3401;classroom;ROOM 3401;1646.5,1310.0;null;null
+p59;ROOM 3402;classroom;ROOM 3402;1741.5,1309.0;null;http://seatplan.ust.hk/?room=3402
+p60;ROOM 3403;office;ROOM 3403;1751.5,1246.0;null;null
+p61;ROOM 3404;office;ROOM 3404;1750.5,1205.0;null;null
+p62;ROOM 3406;office;ROOM 3406;1751.0,1165.5;null;null
+p63;ROOM 3407;office;ROOM 3407;1750.0,1123.5;null;null
+p64;ROOM 3409;office;ROOM 3409;1750.5,1082.5;null;null
+p65;ROOM 3410;office;ROOM 3410;1749.0,1042.0;null;null
+p66;ROOM 3411;office;ROOM 3411;1752.0,1002.0;null;null
+p67;ROOM 3413;office;ROOM 3413;1749.0,960.5;null;null
+p68;ROOM 3414;office;ROOM 3414;1749.5,920.0;null;null
+p69;ROOM 3415;office;ROOM 3415;1749.5,879.0;null;null
+p70;ROOM 3422;office;ROOM 3422;1698.0,715.5;null;null
+p71;ROOM 3423;office;ROOM 3423;1738.0,715.5;null;null
+p72;FEMALE TOILET;female toilet;null;1325.75,1590.25;null;null
+p73;STAIR SC07;stair;STAIR SC07;1372.25,1476.25;null;null
+p74;ROOM 3434;office;ROOM 3434;1954.0,837.0;null;null
+p75;STAIR SC12;stair;STAIR SC12;2014.0,901.5;null;null
+p76;ROOM 3443;office;ROOM 3443;2075.5,839.5;null;null
+p77;ROOM 3442;office;ROOM 3442;2075.5,797.5;null;null
+p78;ROOM 3444;office;ROOM 3444;2108.0,716.5;null;null
+p79;ROOM 3445;office;ROOM 3445;2147.0,715.0;null;null
+p80;ROOM 3446;office;ROOM 3446;2136.5,798.0;null;null
+p81;ROOM 3447;office;ROOM 3447;2136.0,839.0;null;null
+p82;ROOM 3451;office;ROOM 3451;2189.0,716.0;null;null
+p83;ROOM 3450;office;ROOM 3450;2219.0,798.5;null;null
+p84;ROOM 3449;office;ROOM 3449;2218.5,839.5;null;null
+p85;ROOM 3458;office;ROOM 3458;2289.0,531.5;null;null
+p86;ROOM 3457;office;ROOM 3457;2279.5,574.5;null;null
+p87;ROOM 3456;office;ROOM 3456;2280.0,615.5;null;null
+p88;ROOM 3455;office;ROOM 3455;2280.0,655.0;null;null
+p89;ROOM 3454;office;ROOM 3454;2281.5,696.0;null;null
+p90;ROOM 3453;office;ROOM 3453;2281.0,737.5;null;null
+p91;ROOM 3459;office;ROOM 3459;2363.0,532.5;null;null
+p92;ROOM 3460;office;ROOM 3460;2415.0,542.5;null;null
+p93;ROOM 3461;office;MATH DEPARTMENT, MATHEMATICS DEPARTMENT ,MATH DEPARTMENT, MATHEMATICS DEPARTMENT;2383.0,696.0;null;null
+p94;ROOM 3468;office;ROOM 3468;2281.0,798.5;null;null
+p95;ROOM 3469;office;ROOM 3469;2281.5,840.5;null;null
+p96;ROOM 3470;office;ROOM 3470;2280.5,880.5;null;null
+p97;ROOM 3471;office;ROOM 3471;2279.5,920.5;null;null
+p98;ROOM 3476;office;ROOM 3476;2280.5,960.5;null;null
+p99;ROOM 3477;office;ROOM 3477;2279.5,1001.5;null;null
+p100;ROOM 3481;office;ROOM 3481;2281.0,1043.0;null;null
+p101;ROOM 3482;office;ROOM 3482;2279.5,1084.0;null;null
+p102;ROOM 3485;office;ROOM 3485;2280.5,1124.0;null;null
+p103;ROOM 3486;office;ROOM 3486;2280.0,1165.5;null;null
+p104;ROOM 3491;office;ROOM 3491;2279.0,1205.5;null;null
+p105;ROOM 3492;office;ROOM 3492;2280.5,1248.0;null;null
+p106;ROOM 3493;office;ROOM 3493;2300.0,1310.0;null;null
+p107;ROOM 3494;classroom;ROOM 3494;2393.0,1311.0;null;http://seatplan.ust.hk/?room=3494
+p108;ROOM 3463;office;ROOM 3463;2454.0,716.5;null;null
+p109;ROOM 3462;office;ROOM 3462;2454.5,778.5;null;null
+p110;ROOM 3464;office;ROOM 3464;2505.5,736.5;null;null
+p111;ROOM 3527;office;ROOM 3527;2558.0,716.5;null;null
+p112;ROOM 3526;office;ROOM 3526;2558.0,778.0;null;null
+p113;ROOM 3528;office;CSE DEPARTMENT, CS DEPARTMENT, CSE DEPARTMENT, Department of Computer Science and Engineering;2630.5,666.0;null;null
+p114;ROOM 3531;office;ROOM 3531;2723.0,532.5;null;null
+p115;ROOM 3532;office;ROOM 3532;2732.5,573.5;null;null
+p116;ROOM 3533;office;ROOM 3533;2732.5,616.0;null;null
+p117;ROOM 3534;office;ROOM 3534;2731.5,655.0;null;null
+p118;ROOM 3535;office;ROOM 3535;2731.0,695.5;null;null
+p119;ROOM 3536;office;ROOM 3536;2731.0,737.5;null;null
+p120;ROOM 3530;office;ROOM 3530;2732.0,818.5;null;null
+p121;LIFT 25;lift;LIFT 25;2543.5,897.5;null;null
+p122;LIFT 26;lift;LIFT 26;2545.5,933.0;null;null
+p123;ROOM 3522;office;ROOM 3522;2598.5,888.5;null;null
+p124;ROOM 3521;office;ROOM 3521;2598.0,950.5;null;null
+p125;ROOM 3516;office;ROOM 3516;2598.0,1012.0;null;null
+p126;ROOM 3523;office;ROOM 3523;2651.0,880.5;null;null
+p127;ROOM 3520;office;ROOM 3520;2649.5,960.5;null;null
+p128;ROOM 3517;office;ROOM 3517;2650.5,1003.0;null;null
+p129;ROOM 3525;office;ROOM 3525;2733.5,880.5;null;null
+p130;ROOM 3524;office;ROOM 3524;2733.0,920.5;null;null
+p131;ROOM 3519;office;ROOM 3519;2733.0,961.0;null;null
+p132;ROOM 3518;office;ROOM 3518;2732.5,1002.5;null;null
+p133;ROOM 3514;office;ROOM 3514;2733.0,1043.0;null;null
+p134;ROOM 3515;office;ROOM 3515;2608.0,1063.5;null;null
+p135;ROOM 3512;office;ROOM 3512;2660.5,1073.5;null;null
+p136;ROOM 3513;office;ROOM 3513;2733.0,1085.0;null;null
+p137;ROOM 3511;office;ROOM 3511;2608.0,1103.0;null;null
+p138;ROOM 3507;office;ROOM 3507;2598.0,1154.5;null;null
+p139;ROOM 3508;office;ROOM 3508;2650.5,1144.5;null;null
+p140;ROOM 3506;office;ROOM 3506;2598.0,1215.5;null;null
+p141;ROOM 3505;office;ROOM 3505;2650.5,1225.5;null;null
+p142;ROOM 3510;office;ROOM 3510;2733.0,1126.0;null;null
+p143;ROOM 3509;office;ROOM 3509;2732.5,1166.5;null;null
+p144;ROOM 3504;office;ROOM 3504;2733.0,1206.5;null;null
+p145;ROOM 3503;office;ROOM 3503;2733.0,1247.5;null;null
+p146;ROOM 3501;classroom;ROOM 3501;2619.5,1310.5;null;http://seatplan.ust.hk/?room=3501
+p147;ROOM 3502;classroom;ROOM 3502;2712.5,1310.5;null;null
+p148;STAIR SC15;stair;STAIR SC15;2507.0,1308.0;null;null
+p149;ROOM 3537;office;ROOM 3537;2782.5,705.5;null;null
+p150;ROOM 3543;office;ROOM 3543;2823.5,706.0;null;null
+p151;ROOM 3538;office;ROOM 3538;2792.5,797.5;null;null
+p152;ROOM 3539;office;ROOM 3539;2792.0,838.0;null;null
+p153;ROOM 3544;office;ROOM 3544;2865.5,715.0;null;null
+p154;ROOM 3545;office;ROOM 3545;2905.0,715.0;null;null
+p155;ROOM 3542;office;ROOM 3542;2874.5,798.5;null;null
+p156;ROOM 3541;office;ROOM 3541;2875.0,838.0;null;null
+p157;ROOM 3546;office;ROOM 3546;2937.0,798.5;null;null
+p158;ROOM 3547;office;ROOM 3547;2935.5,839.0;null;null
+p159;ROOM 3553;office;ROOM 3553;3058.5,798.0;null;null
+p160;ROOM 3554;office;ROOM 3554;3058.5,838.0;null;null
+p161;ROOM 3555;office;ROOM 3555;3090.5,716.5;null;null
+p162;ROOM 3558;office;ROOM 3558;3120.0,798.0;null;null
+p163;ROOM 3559;office;ROOM 3559;3119.5,838.0;null;null
+p164;ROOM 3556;office;ROOM 3556;3130.5,716.5;null;null
+p165;ROOM 3557;office;ROOM 3557;3170.5,705.5;null;null
+p166;ROOM 3563;office;ROOM 3563;3212.0,706.0;null;null
+p167;ROOM 3562;office;ROOM 3562;3202.5,798.5;null;null
+p168;ROOM 3561;office;ROOM 3561;3200.5,839.0;null;null
+p169;ROOM 3582;office;ROOM 3582;3263.0,798.5;null;null
+p170;ROOM 3583;office;ROOM 3583;3261.5,839.0;null;null
+p171;ROOM 3565;office;ROOM 3565;3263.0,697.0;null;null
+p172;ROOM 3564;office;ROOM 3564;3264.0,737.5;null;null
+p173;ROOM 3549;office;ROOM 3549;2955.5,695.0;null;null
+p174;ROOM 3548;office;ROOM 3548;2956.0,737.0;null;null
+p175;ROOM 3551;office;ROOM 3551;3037.5,695.5;null;null
+p176;ROOM 3552;office;ROOM 3552;3039.5,738.0;null;null
+p177;ROOM 3566;office;ROOM 3566;3263.0,655.0;null;null
+p178;ROOM 3585;office;ROOM 3585;3261.5,879.5;null;null
+p179;ROOM 3568;office;ROOM 3568;3261.5,574.5;null;null
+p180;ROOM 3569;office;ROOM 3569;3272.0,531.5;null;null
+p181;ROOM 3570;office;ROOM 3570;3343.5,532.5;null;null
+p182;ROOM 3571;office;ROOM 3571;3395.5,542.0;null;null
+p183;ROOM 3572;office;ROOM 3572;3396.0,604.5;null;null
+p184;ROOM 3573;office;ROOM 3573;3344.5,615.5;null;null
+p185;ROOM 3574;office;ROOM 3574;3365.0,676.0;null;null
+p186;ROOM 3586;office;ROOM 3586;3262.0,919.5;null;null
+p187;ROOM 3587;office;ROOM 3587;3262.5,962.0;null;null
+p188;ROOM 3589;office;ROOM 3589;3263.0,1002.0;null;null
+p189;ROOM 3590;office;ROOM 3590;3263.0,1044.0;null;null
+p190;ROOM 3592;office;ROOM 3592;3262.5,1085.0;null;null
+p191;ROOM 3593;office;ROOM 3593;3263.5,1125.0;null;null
+p192;ROOM 3594;office;ROOM 3594;3262.5,1166.5;null;null
+p193;ROOM 3596;office;ROOM 3596;3262.5,1206.0;null;null
+p194;ROOM 3597;office;ROOM 3597;3262.0,1247.0;null;null
+p195;ROOM 3584;classroom;ROOM 3584;3376.0,910.0;null;http://seatplan.ust.hk/?room=3584
+p196;ROOM 3588;classroom;ROOM 3588;3375.5,1013.0;null;http://seatplan.ust.hk/?room=3588
+p197;ROOM 3591;office;ROOM 3591;3375.5,1114.0;null;null
+p198;ROOM 3595;office;ROOM 3595;3376.0,1206.0;null;null
+p199;ROOM 3598;classroom;ROOM 3598;3303.0,1310.0;null;http://seatplan.ust.hk/?room=3598
+p200;STAIR SC19;stair;STAIR SC19;3488.5,1311.0;null;null
+p201;ROOM 3600;office;ROOM 3600;3611.0,1309.5;null;null
+p202;ROOM 3601;office;ROOM 3601;3704.5,1329.0;null;null
+p203;ROOM 3602;office;ROOM 3602;3714.0,1287.5;null;null
+p204;ROOM 3603;office;ROOM 3603;3714.0,1246.0;null;null
+p205;ROOM 3604;office;ROOM 3604;3715.0,1205.0;null;null
+p206;ROOM 3606;office;ROOM 3606;3611.0,1216.5;null;null
+p207;ROOM 3607;office;ROOM 3607;3601.5,1144.0;null;null
+p208;ROOM 3605;office;ROOM 3605;3714.5,1164.0;null;null
+p209;ROOM 3608;office;ROOM 3608;3714.0,1113.0;null;null
+p210;ROOM 3609;office;ROOM 3609;3714.0,1063.0;null;null
+p211;ROOM 3610;classroom;ROOM 3610;3600.5,1083.5;null;null
+p212;ROOM 3611;classroom;ROOM 3611;3703.5,1023.0;null;null
+p213;ROOM 3613;classroom;ROOM 3613;3591.0,1009.5;null;null
+p214;ROOM 3612;classroom;ROOM 3612;3703.0,981.0;null;null
+p215;ROOM 3614;classroom;ROOM 3614;3702.5,940.5;null;null
+p216;ROOM 3616;office;ROOM 3616;3694.5,859.0;null;null
+p217;ROOM 3615;office;;3581.0,927.5;null;null
+p218;ROOM 3577;office;ROOM 3577;3446.5,695.0;null;null
+p219;ROOM 3578;office;ROOM 3578;3498.5,695.0;null;null
+p220;ROOM 3579;office;ROOM 3579;3551.5,706.5;null;null
+p221;ROOM 3619;office;;3590.5,654.0;null;null
+p222;ROOM 3620;office;;3591.0,615.0;null;null
+p223;ROOM 3622A;office;ROOM 3622A;3715.0,532.5;null;null
+p224;ROOM 3622;office;ROOM 3622;3714.5,573.5;null;null
+p225;ROOM 3623;office;ROOM 3623;3704.5,613.5;null;null
+p226;ROOM 3624;office;ROOM 3624;3715.5,656.0;null;null
+p227;LIFT 27;lift;LIFT 27;3450.5,898.0;null;null
+p228;LIFT 28;lift;LIFT 28;3449.5,934.0;null;null
+p229;STAIR SC33;stair;STAIR SC33;3608.5,742.5;null;null
+p230;ROOM 3620A;office;ROOM 3620A;3652.5,655.5;null;null
+p231;ROOM 3625A;office;ROOM 3625A;3776.5,705.5;null;null
+p232;ROOM 3625;office;ROOM 3625;3826.5,704.5;null;null
+p233;ROOM 3626;office;ROOM 3626;3867.0,706.0;null;null
+p234;ROOM 3629;office;ROOM 3629;3908.5,706.0;null;null
+p235;ROOM 3631;office;ROOM 3631;3949.5,705.5;null;null
+p236;ROOM 3635;office;ROOM 3635;4090.0,694.0;null;null
+p237;ROOM 3636;office;;4091.0,737.0;null;null
+p238;ROOM 3632;office;;3977.5,790.0;null;null
+p239;ROOM 3634;office;ROOM 3634;4072.0,819.0;null;null
+p240;ROOM 3637;office;ROOM 3637;4134.5,828.0;null;null
+p241;ROOM 3638;office;ROOM 3638;4184.0,819.5;null;null
+p242;ROOM 3111;lab;ROOM 3111;2272.5,1441.0;null;null
+p243;ROOM 3111B;lab;ROOM 3111B;2334.0,1442.5;null;null
+p244;ROOM 3111A;lab;ROOM 3111A;2383.5,1443.0;null;null
+p245;ROOM 3113;lab;ROOM 3113;2466.5,1413.5;null;null
+p246;ROOM 3113A;lab;ROOM 3113A;2495.0,1472.0;null;null
+p247;ROOM 3113B;lab;ROOM 3113B;2548.5,1442.0;null;null
+p248;ROOM 3110;lab;ROOM 3110;2321.5,1575.0;null;null
+p249;ROOM 3112;lab;ROOM 3112;2497.0,1575.0;null;null
+p250;ROOM 3114;lab;ROOM 3114;2641.0,1574.5;null;null
+p251;ROOM 3114A;lab;ROOM 3114A;2733.0,1575.5;null;null
+p252;ROOM 3115;lab;ROOM 3115;2671.5,1443.5;null;null
+p253;ROOM 3117;lab;ROOM 3117;2864.0,1422.0;null;null
+p254;ROOM 3117A;lab;ROOM 3117A;2895.0,1484.0;null;null
+p255;ROOM 3118B;lab;ROOM 3118B;2945.5,1432.5;null;null
+p256;ROOM 3118A;lab;ROOM 3118A;2966.5,1493.5;null;null
+p257;ROOM 3118;lab;ROOM 3118;3007.0,1412.0;null;null
+p258;ROOM 3122;lab;ROOM 3122;3232.0,1442.0;null;null
+p259;ROOM 3116;lab;ROOM 3116;2864.5,1575.5;null;null
+p260;ROOM 3116B;lab;ROOM 3116B;2945.5,1574.5;null;null
+p261;ROOM 3116A;lab;ROOM 3116A;2987.0,1574.5;null;null
+p262;ROOM 3119;lab;ROOM 3119;3069.0,1575.0;null;null
+p263;ROOM 3123;lab;ROOM 3123;3355.5,1443.0;null;null
+p264;ROOM 3125A;lab;ROOM 3125A;3468.5,1575.0;null;null
+p265;ROOM 3127;lab;;3684.0,1443.5;null;null
+p266;ROOM 3130;lab;;3684.0,1576.5;null;null
+p267;STAIR SC40;stair;STAIR SC40;4154.0,1742.5;null;null
+p268;ROOM 3377;office;ROOM 3377;961.0,828.0;null;null
+p269;ROOM 3376;office;ROOM 3376;921.0,831.0;null;null
+p270;ROOM 3369;office;ROOM 3369;877.5,830.0;null;null
+p271;ROOM 3368;office;ROOM 3368;837.5,830.5;null;null
+p272;ROOM 3370;office;ROOM 3370;868.5,756.5;null;null
+p273;ROOM 3371;office;ROOM 3371;868.0,715.5;null;null
+p274;ROOM 3367;office;ROOM 3367;797.0,828.0;null;null
+p275;ROOM 3366;office;ROOM 3366;756.5,829.0;null;null
+p276;ROOM 3365;office;ROOM 3365;756.0,726.5;null;null
+p277;FEMALE TOILET;female toilet;;869.0,616.5;null;null
+p278;ROOM 3359;office;ROOM 3359;654.5,881.0;null;null
+p279;MALE TOILET;male toilet;;1550.5,987.0;null;null
+p280;FEMALE TOILET;female toilet;;2530.5,987.5;null;null
+p281;STAIR SC14;stair;STAIR SC14;2458.5,977.0;null;null
+p282;STAIR SC16;stair;STAIR SC16;2997.0,902.0;null;null
+p283;STAIR SC18;stair;STAIR SC18;3534.0,975.5;null;null
+p284;MALE TOILET;male toilet;;3464.0,986.0;null;null
+p285;STAIR SC13;stair;STAIR SC13;2016.0,1307.0;null;null
+p286;MALE TOILET;male toilet;;1778.25,2054.75;null;null
+p287;LIFT 29;lift;LIFT 29;3728.0,710.5;null;null
+p288;LIFT 30;lift;LIFT 30;3727.5,746.0;null;null
+p289;STAIR SC35;stair;STAIR SC35;3980.5,900.5;null;null
+p290;STAIR SC09;stair;STAIR SC09;1982.5,2442.0;null;null
+p291;STAIR SC10;stair;STAIR SC10;1906.0,1740.0;null;null
+p292;STAIR SC11;stair;STAIR SC11;2142.5,1739.5;null;null
+p293;FEMALE TOILET;female toilet;;2081.5,1738.0;null;null
+p294;ROOM 3219;lab;ROOM 3219;2361.5,1758.5;null;null
+p295;ROOM 3220;lab;ROOM 3220;2506.5,1738.0;null;null
+p296;LIFT 20;lift;LIFT 20;2134.5,2120.0;null;null
+p297;ROOM 3218;lab;ROOM 3218;2279.5,1859.5;null;null
+p298;ROOM 3211;lab;ROOM 3211;2372.5,2074.0;null;null
+p299;ROOM 3213;office;ROOM 3213;2505.0,2003.5;null;null
+p300;ROOM 3210;lab;ROOM 3210;2505.0,2187.0;null;null
+p301;ROOM 3214;office;ROOM 3214;2608.5,1972.5;null;null
+p302;ROOM 3215;office;ROOM 3215;2711.0,1972.0;null;null
+p303;ROOM 3209B;office;ROOM 3209B;2661.0,2054.0;null;null
+p304;ROOM 3202;lab;ROOM 3202;2350.5,2289.0;null;null
+p305;ROOM 3202D;lab;ROOM 3202D;2413.5,2361.5;null;null
+p306;ROOM 3202C;lab;ROOM 3202C;2290.0,2361.5;null;null
+p307;ROOM 3202A;lab;ROOM 3202A;2311.0,2403.0;null;null
+p308;ROOM 3202B;lab;ROOM 3202B;2268.5,2402.0;null;null
+p309;ROOM 3201;lab;ROOM 3201;2350.5,2482.5;null;null
+p310;ROOM 3201B;lab;ROOM 3201B;2352.0,2585.0;null;null
+p311;ROOM 3201A;lab;ROOM 3201A;2271.0,2586.5;null;null
+p312;ROOM 3200;;ROOM 3200;2229.0,2587.5;null;null
+p313;ROOM 3206;lab;ROOM 3206;2463.5,2329.0;null;null
+p314;ROOM 3205;lab;ROOM 3205;2514.0,2247.0;null;null
+p315;ROOM 3204A;lab;ROOM 3204A;2548.0,2444.0;null;null
+p316;ROOM 3204B;lab;ROOM 3204B;2495.0,2452.5;null;null
+p317;ROOM 3204C;lab;ROOM 3204C;2485.0,2503.5;null;null
+p318;ROOM 3203;lab;ROOM 3203;2505.5,2578.0;null;null
+p319;ROOM 3207;lab;ROOM 3207;2659.5,2554.5;null;null
+p320;ROOM 3207B;;;2783.5,2566.5;null;null
+p321;ROOM 3208A;lab;ROOM 3208A;2591.5,2350.0;null;null
+p322;LIFT 21;lift;LIFT 21;2871.0,2121.0;null;null
+p323;FEMALE TOILET;female toilet;;3054.5,1734.5;null;null
+p324;LIFT 22;lift;LIFT 22;3170.0,1762.0;null;null
+p325;LIFT 23;lift;LIFT 23;3128.0,2121.0;null;null
+p326;ROOM 3234;;;3258.0,2388.0;null;null
+p327;MALE TOILET;male toilet;;3831.5,2248.0;null;null
+p328;LIFT 24;lift;LIFT 24;3861.0,2120.0;null;null
+p329;ROOM 3142;lab;ROOM 3142;4383.5,1470.0;null;null
+p330;ROOM 3143;lab;ROOM 3143;4352.5,1604.5;null;null
+p331;ROOM 3664;office;ROOM 3664;4306.0,1310.0;null;null
+p332;ROOM 3663;office;ROOM 3663;4255.0,1227.0;null;null
+p333;ROOM 3662;office;ROOM 3662;4254.5,1165.5;null;null
+p334;ROOM 3659;office;ROOM 3659;4233.5,1034.0;null;null
+p335;ROOM 3658;office;ROOM 3658;4234.0,960.0;null;null
+p336;ROOM 3657;office;ROOM 3657;4233.5,889.5;null;null
+p337;ROOM 3655;office;ROOM 3655;4357.5,909.5;null;null
+p338;ROOM 3644;office;ROOM 3644;4256.0,798.0;null;null
+p339;ROOM 3645;office;ROOM 3645;4296.5,798.0;null;null
+p340;ROOM 3642;office;ROOM 3642;4266.5,717.0;null;null
+p341;ROOM 3646;office;ROOM 3646;4535.0,706.5;null;null
+p342;ROOM 3647;office;ROOM 3647;4535.0,758.5;null;null
+p343;ROOM 3648;office;ROOM 3648;4545.0,798.0;null;null
+p344;ROOM 3649;office;ROOM 3649;4543.5,844.0;null;null
+p345;ROOM 3641;office;ROOM 3641;4490.5,808.0;null;null
+p346;MALE TOILET;male toilet;;4534.5,983.0;null;null
+p347;ROOM 3211A;lab;ROOM 3211A;2271.0,2063.0;null;null
+p348;MALE TOILET;male toilet;;2151.0,2236.0;null;null
+p349;ROOM 3118C;lab;ROOM 3118C;3018.25,1462.75;null;null
+p350;STAIR SC32;stair;STAIR SC32;3938.5,1422.0;null;null
+p351;STAIR SC38;stair;STAIR SC38;4470.5,1308.0;null;null
+p352;STAIR SC36;stair;STAIR SC36;4443.0,960.0;null;null
+p354;ROOM 3108;office;ROOM 3108;1984.5,1442.5;null;null
+p358;ROOM 3109;lab;ROOM 3109;2107.0,1402.5;null;null
+p359;ROOM 3109A;office;ROOM 3109A;2188.0,1442.5;null;null
+p360;ROOM 3107;;null;1975.0,1595.0;null;null
+p361;ROOM 3107A;;null;2076.0,1595.0;null;null
+p362;ROOM 3107B;office;ROOM 3107B;2168.0,1626.0;null;null
+p363;ROOM 3107C;office;ROOM 3107C;2168.0,1574.0;null;null
+p364;ROOM 3107D;office;ROOM 3107D;2188.5,1524.0;null;null
+p367;ROOM 3207A-3208;lab;ROOM 3207A, ROOM 3208;2701.0,2412.5;null;null
+p370;ROOM 3131;lab;ROOM 3131;3827.5,1512.5;null;null
+p371;ROOM 3567;office;ROOM 3567;3263.0,614.0;null;null
+p372;ROOM 3639;office;ROOM3639;4133.0,735.5;null;null
+p373;LIFT 19;lift;LIFT 19;2189.5,1763.0;null;null
+p374;LIFT 2;lift;LIFT 2;1285.0,1475.75;null;null
+p375;LIFT 1;lift;LIFT 1;1836.75,1967.25;null;null
+p376;ROOM 3003;office;ROOM 3003;302.0,2043.75;null;null
+p377;ROOM 3011-3017;office;LANGUAGE CENTRE OFFICE;876.5,1489.0;null;null
+p378;STAIR SC17;stair;STAIR SC17;2997.0,1203.0;null;null
+p379;FEMALE TOILET;female toilet;;3978.5,819.5;null;null
+p380;LIFT 31;lift;LIFT 31;4547.5,890.0;null;null
+p381;LIFT 32;lift;LIFT 32;4548.0,925.0;null;null
+p382;STAIR SC31;stair;STAIR SC31;3978.5,1194.5;null;null
+p383;LIFT 33;lift;LIFT 33;4254.0,1741.0;null;null
+p384;STAIR SC28;stair;STAIR SC28;3852.0,1740.5;null;null
+p385;STAIR SC29;stair;STAIR SC29;3838.5,2168.5;null;null
+p386;STAIR SC26;stair;STAIR SC26;3138.0,2169.0;null;null
+p387;STAIR SC27;stair;STAIR SC27;3126.5,2443.5;null;null
+p388;STAIR SC22;stair;STAIR SC22;2867.5,1740.5;null;null
+p389;STAIR SC24;stair;STAIR SC24;2856.0,2169.5;null;null
+p390;STAIR SC25;stair;STAIR SC25;2871.0,2443.0;null;null
+p391;STAIR SC21;stair;STAIR SC21;2140.5,2441.5;null;null
+p392;STAIR SC20;stair;STAIR SC20;2153.5,2168.0;null;null
+p393;STAIR SC23;stair;STAIR SC23;3126.0,1740.5;null;null
+p394;DRINKING FOUNTAIN;drinking fountain;;686.25,1564.5;null;null
+p395;DRINKING FOUNTAIN;drinking fountain;;1235.5,681.0;null;null
+p396;DRINKING FOUNTAIN;drinking fountain;;1561.0,1274.0;null;null
+p397;DRINKING FOUNTAIN;drinking fountain;;2562.5,1271.5;null;null
+p398;DRINKING FOUNTAIN;drinking fountain;;3545.0,1273.5;null;null
+p399;LTJ;lecture hall;LTJ, LT J, LECTURE THEATRE;4127.5,1515.5;null;null
+p400;ROOM. 3018 & 3019;;Language Commons, ROOM 3018, ROOM 3019;1105.25,1491.0;null;null
+p401;ROOM 3101;;;1520.5,1424.0;null;null
+p402;ROOM 3020;;;1423.0,1499.0;null;null
+p403;ROOM 3021;;;1459.5,1517.75;null;null
+p404;ROOM 3022;;;1493.5,1538.25;null;null
+p405;ROOM 3023;;;1526.75,1558.0;null;null
+p406;ROOM 3024;;;1558.75,1579.75;null;null
+p407;ROOM 3025;;;1592.25,1603.5;null;null
+p408;ROOM 3026;;;1621.75,1629.25;null;null
+p409;ROOM 3019A;;;1637.25,1760.25;null;null
+p410;ROOM 3020-3026;;;1481.0,1633.75;null;null
+p411;ROOM 3033A;;;1908.5,2090.0;null;null
+p412;ROOM 3033B;;;1792.25,2118.25;null;null
+p413;ROOM 3033C;;;1806.25,2194.75;null;null
+p414;ROOM 3035;;;1934.25,2149.5;null;null
+p415;ROOM 3037;;;1950.5,2288.25;null;null
+p416;ROOM 3033;;;1827.5,2305.5;null;null
+p417;ROOM 3209A & 3209C;;room 3209A, room 3209c;2658.5,2160.5;null;null
+p418;FEMALE TOILET;female toilet;;2858.0,2243.0;null;null
+p419;3576;office;;3351.5,737.5;null;null
+p420;3575;office;3575,CIVIL DEPARTMENT;3416.0,789.0;null;null
+p421;3580;null;null;3541.0,755.0;null;null
+p422;3581;;;3550.0,796.5;null;null
+p423;ROOM 3331;;3331A, 3331B;651.0,1381.0;null;null
+p424;ROOM 3339;;ROOM 3339;640.5,1196.0;null;null
+p425;ROOM 3347;;;693.0,1074.0;null;null
+p426;ROOM 3355;;;693.0,932.0;null;null
+p427;ROOM 3351;;;694.0,1013.0;null;null
+p428;ROOM 3354;;;641.0,921.5;null;null
+p429;ROOM 3353;;;630.5,971.0;null;null
+p430;ROOM 3352;;;643.0,1014.0;null;null
+p431;ROOM 3360;;;692.5,816.5;null;null
+p432;ROOM 3361;;;650.5,798.0;null;null
+p433;ROOM 3362;;;609.5,817.0;null;null
+p434;ROOM 3363;;;694.0,727.5;null;null
+p435;ROOM 3364;;;631.0,706.0;null;null
+p436;ROOM 3373;;;918.5,693.5;null;null
+p437;ROOM 3374;;;948.5,726.0;null;null
+p438;ROOM 3375;;;949.5,760.0;null;null
+p439;ROOM 3379;;;1001.0,759.5;null;null
+p440;ROOM 3391;;;1197.5,756.0;null;null
+p441;ROOM 3399;;;1431.0,746.5;null;null
+p442;ROOM 3316;;;1400.0,913.5;null;null
+p443;ROOM 3312;;;1401.0,1014.0;null;null
+p444;ROOM 3309;;;1401.0,1116.5;null;null
+p445;ROOM 3305;;;1401.5,1207.0;null;null
+p446;ROOM 3315;;;1296.0,879.5;null;null
+p447;ROOM 3314;;;1297.5,921.5;null;null
+p448;ROOM 3313;;;1299.0,963.5;null;null
+p449;ROOM 3311;;;1297.5,1002.5;null;null
+p450;ROOM 3310;;;1296.5,1044.0;null;null
+p451;ROOM 3308;;;1297.5,1086.0;null;null
+p452;ROOM 3307;;;1296.0,1128.0;null;null
+p453;ROOM 3306;;;1298.0,1167.0;null;null
+p454;ROOM 3304;;;1299.0,1208.0;null;null
+p455;ROOM 3303;;;1299.0,1250.5;null;null
+p456;ROOM 3302;;;1297.0,1312.0;null;null
+p457;ROOM 3301;;;1398.5,1310.5;null;null
+p458;ROOM 3419;;;1624.5,746.5;null;null
+p459;ROOM 3420;;;1677.0,788.0;null;null
+p460;ROOM 3421;;;1749.5,819.5;null;null
+p462;ROOM 3472;;null;2383.0,888.0;null;null
+p463;ROOM 3473;;null;2380.0,950.0;null;null
+p464;ROOM 3478;;null;2384.0,1012.5;null;null
+p465;ROOM 3483;;null;2358.5,1060.0;null;null
+p466;ROOM 3484;;null;2412.0,1070.0;null;null
+p467;ROOM 3488;;null;2414.0,1131.0;null;null
+p469;ROOM 3489;;null;2352.0,1202.5;null;null
+p470;ROOM 3490;;null;2403.0,1226.0;null;null
+p471;ROOM 3217;;;2358.5,1892.5;null;null
+p472;ROOM 3217A;;;2414.0,1873.0;null;null
+p473;ROOM 3215;;;2465.0,1881.5;null;null
+p474;ROOM 3216;;;2523.5,1873.0;null;null
+p475;ROOM 3120;;;3080.5,1440.0;null;null
+p476;ROOM 3120B;;;3139.5,1438.5;null;null
+p477;ROOM 3124;;;3451.5,1443.0;null;null
+p478;ROOM 3126;;;3574.5,1440.5;null;null
+p479;ROOM 3121B;;;3161.5,1577.0;null;null
+p480;ROOM 3121;;;3220.5,1575.5;null;null
+p481;ROOM 3121A;;;3324.0,1579.0;null;null
+p482;ROOM 3632;;;3991.0,704.0;null;null
+p483;ROOM 3633;;;4043.0,714.0;null;null
+p484;ROOM 3618;;;3768.5,837.0;null;null
+p485;ROOM 3627;;;3807.5,836.5;null;null
+p486;ROOM 3627A;;;3848.0,836.0;null;null
+p487;ROOM 3628;;;3890.0,835.0;null;null
+p488;ROOM 3630;;;3930.5,833.5;null;null
+p489;ROOM 3424;;;1779.5,706.0;null;null
+p490;ROOM 3425;;;1819.5,703.5;null;null
+p491;ROOM 3426;;null;1862.0,705.0;null;null
+p492;ROOM 3428;;null;1810.0,777.0;null;null
+p493;ROOM 3429;;null;1799.0,829.0;null;null
+p494;ROOM 3430;;null;1850.5,838.5;null;null
+p495;ROOM 3432;;null;1892.5,778.0;null;null
+p496;ROOM 3431;;null;1901.5,828.5;null;null
+p497;ROOM 3427;;null;1903.5,705.0;null;null
+p498;ROOM 3436;;null;1945.0,705.0;null;null
+p499;ROOM 3437;;null;1985.0,704.5;null;null
+p500;ROOM 3438;;null;2024.5,701.5;null;null
+p501;ROOM 3439;;null;2067.0,714.0;null;null
+p502;ROOM 3433;;null;1943.0,786.5;null;null
+p503;ROOM 3435;;null;1984.5,783.5;null;null
+p504;ROOM 3452;;;2227.0,711.5;null;null
+p505;Cheng Yu Tung Building Entrance;cross building connector;;4554.5,1366.5;null;null

@@ -1,0 +1,19 @@
+-0.006097569867303697
+1.9548500680906853
+0.006232573416645967
+-90.27356235591392
+p0;UC Entrance (1F);cross building connector;;915.0,997.5;null;null
+p1;LIFT UC;lift;;793.5,559.0;null;null
+p2;STAIR;stair;;1034.0,493.0;null;null
+p3;STAIR UC 2;stair;;490.5,673.0;null;null
+p4;STAIR UC 3;stair;;1330.5,808.5;null;null
+p5;Activities Room UC101;;UC 101;446.5,519.5;null;null
+p6;Gymnasium;;;423.0,764.0;null;null
+p7;Female Toilet, Shower, Change Room;female toilet;;582.0,788.0;null;null
+p8;Male Toilet, Shower, Change Room;male toilet;null;742.5,756.0;null;null
+p9;Music Lounge UC102;;UC 102;655.5,499.5;null;http://seatplan.ust.hk/?room=uc102
+p10;Staff Lounge;;;1173.5,618.5;null;null
+p11;UC 103;;UC103;1384.0,607.5;null;null
+p12;Male Toilet;male toilet;null;1434.5,708.5;null;null
+p13;Female Toilet;female toilet;null;1435.0,813.0;null;null
+p14;UC104;;UC 104;1115.0,861.0;null;null

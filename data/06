@@ -1,0 +1,230 @@
+-0.0018674944719643113
+0.23361662713375841
+0.0018730003225561798
+-88.16108219805146
+p0;STAIR SC05;stair;;525.5,2321.25;null;null
+p1;ROOM 101C;;;528.25,2249.5;null;null
+p2;LIFT 4;lift;;572.75,2250.25;null;null
+p3;STAIR SC06;stair;null;1036.0,1756.0;null;null
+p4;MALE TOILET;male toilet;MALE TOILET;1073.25,1856.25;null;null
+p5;LIFT 3;lift;;1117.5,1750.25;null;null
+p6;LIFT 2;lift;;1622.0,1748.25;null;null
+p7;STAIR SC07;stair;;1703.75,1758.25;null;null
+p8;FEMALE TOILET;female toilet;FEMALE TOILET;1665.0,1855.5;null;null
+p9;ROOM 1025B;classroom;;1752.0,1778.25;null;null
+p10;ROOM 1025;classroom;;1786.25,1796.25;null;null
+p11;ROOM 1026;classroom;;1837.0,1825.75;null;null
+p12;ROOM 1027;classroom;;1909.25,1878.25;null;null
+p13;ROOM 1024A;classroom;;1711.25,1887.25;null;null
+p14;ROOM 1024;classroom;;1775.25,1911.25;null;null
+p15;ROOM 1023;classroom;;1826.0,1958.5;null;null
+p16;ROOM 1022;classroom;;1871.75,1984.5;null;null
+p17;ROOM 1028;classroom;;1968.75,1929.25;null;null
+p18;ROOM 1031A;classroom;;1905.0,2011.5;null;null
+p19;ROOM 1029;classroom;;2040.0,2008.75;null;null
+p20;ROOM 1031;classroom;;1993.5,2129.75;null;null
+p21;ROOM 1359;classroom;;149.25,969.5;null;null
+p22;ROOM 1358D;classroom;;210.5,971.25;null;null
+p23;ROOM 1358;classroom;;270.0,991.0;null;null
+p24;ROOM 1358A;classroom;;270.5,1074.5;null;null
+p25;ROOM 1361A;classroom;;77.0,1159.25;null;null
+p26;ROOM 1361B;classroom;;75.75,1200.0;null;null
+p27;ROOM 1361;classroom;;160.0,1179.0;null;null
+p28;ROOM 1360;classroom;;243.5,1163.5;null;null
+p29;ROOM 1362;null;null;161.5,1266.5;null;null
+p30;LIFT 7;lift;;280.5,1165.0;null;null
+p31;STAIR SCL2;stair;;373.5,1164.0;null;null
+p32;ROOM 1349B;classroom;;390.5,1013.0;null;null
+p33;ROOM 1349;classroom;;534.5,991.0;null;null
+p34;ROOM 1349A;null;null;678.5,1013.0;null;null
+p35;ROOM 1352;classroom;;790.5,961.0;null;null
+p36;ROOM 1351;classroom;;790.5,1014.5;null;null
+p37;ROOM 1350;classroom;;790.0,1065.5;null;null
+p38;ROOM 1348;classroom;;769.5,1209.0;null;null
+p39;LIFT 9;lift;;701.5,1179.0;null;null
+p40;STAIR SCL1;stair;;562.0,1162.5;null;null
+p41;ROOM 1354;classroom;;491.5,1162.0;null;null
+p42;ROOM 1125;null;null;3608.5,1741.5;null;null
+p43;ROOM 1125A;classroom;;3698.0,1691.5;null;null
+p44;STAIR SC27;stair;;3457.5,2459.5;null;null
+p45;STAIR SC01;stair;null;1098.5,872.0;null;null
+p46;FEMALE TOILET;female toilet;FEMALE TOILET;415.0,1236.0;null;null
+p47;MALE TOILET;male toilet;MALE TOILET;316.5,1248.0;null;null
+p48;LTD;lecture hall;LT D, lecture hall, LECTURE THEATRE;3201.0,1778.5;null;http://seatplan.ust.hk/?room=LTD
+p49;LTE;lecture hall;LT E, lecture hall, LECTURE THEATRE;3402.5,1779.0;null;http://seatplan.ust.hk/?room=LTE
+p50;ROOM 1125B;office;null;3722.0,1787.0;null;null
+p51;ROOM 1030A-B;classroom;ROOM 1030A, ROOM 1030B;2132.5,2140.5;null;null
+p52;LIFT 1;lift;;2163.75,2241.25;null;null
+p53;STAIR SC08;stair;;2211.0,2314.25;null;null
+p54;MALE TOILET;male toilet;MALE TOILET;2112.0,2347.25;null;null
+p55;ROOM 1049;classroom;;2130.5,2410.0;null;null
+p56;ROOM 1048;classroom;;2218.75,2396.75;null;null
+p57;ROOM 1034;classroom;;2303.0,2416.0;null;null
+p58;ROOM 1034A;classroom;;2303.5,2476.5;null;null
+p59;ROOM 1055;classroom;;2303.5,2531.0;null;null
+p60;MALE TOILET;male toilet;MALE TOILET;2411.0,2002.0;null;null
+p61;LIFT 13;lift;;1517.5,836.5;null;null
+p62;LIFT 14;lift;;1552.5,835.5;null;null
+p63;LIFT 15;lift;;1590.0,835.5;null;null
+p64;STAIR SC02;stair;;1641.5,869.0;null;null
+p65;ROOM 1370;office;;1653.5,1066.5;null;null
+p66;ROOM 1374;office;;1652.5,1108.5;null;null
+p67;ROOM 1373;office;;1653.5,1151.0;null;null
+p68;ROOM 1372;office;;1655.0,1193.0;null;null
+p69;ROOM 1371;office;;1653.0,1234.0;null;null
+p70;ROOM 1364;office;;1555.0,931.5;null;null
+p71;ROOM 1369;office;;1816.5,1087.5;null;null
+p72;STAIR SC03;stair;;1812.0,1213.0;null;null
+p73;MALE TOILET;male toilet;MALE TOILET;1900.0,1239.0;null;null
+p74;LIFT 18;lift;;1890.5,1182.0;null;null
+p75;LIFT 17;lift;;1890.5,1144.5;null;null
+p76;ROOM 1379;office;;1896.0,1089.0;null;null
+p77;ROOM 1380;classroom;ROOM 1380;1947.0,1107.0;null;null
+p78;ROOM 1382;office;;2088.0,1056.5;null;null
+p79;ROOM 1383;office;;2088.0,992.5;null;null
+p80;STAIR SC04;stair;;1843.5,1572.0;null;null
+p81;ROOM 1100;classroom;ROOM 1100;1933.5,1570.5;null;null
+p82;STAIR SC15;stair;;2346.5,1539.5;null;null
+p83;LTA;lecture hall;LT A, lecture hall, LECTURE THEATRE;2384.5,1752.0;null;http://seatplan.ust.hk/?room=LTA
+p84;ROOM 1105A;classroom;ROOM 1105A;2108.25,1975.75;null;null
+p85;ROOM 1105;classroom;;2135.5,2003.75;null;null
+p86;STAIR SC10;stair;;2234.0,2025.0;null;null
+p87;LTF;lecture hall;LT F, lecture hall, LECTURE THEATRE;2666.0,893.5;null;http://seatplan.ust.hk/?room=LTF
+p88;LTG;lecture hall;LT G, lecture hall, LECTURE THEATRE;2994.5,895.5;null;http://seatplan.ust.hk/?room=LTG
+p89;ROOM 1505;classroom;;2953.0,1140.5;null;http://seatplan.ust.hk/?room=1505
+p90;ROOM 1504;classroom;;3046.0,1140.0;null;http://seatplan.ust.hk/?room=1504
+p91;STAIR SC14;stair;;2788.0,1213.5;null;null
+p92;LIFT 25;lift;;2868.0,1145.5;null;null
+p93;LIFT 26;lift;;2865.5,1182.0;null;null
+p94;FEMALE TOILET;female toilet;FEMALE TOILET;2876.5,1237.0;null;null
+p95;LTC;lecture hall;LT C, lecture hall, LECTURE THEATRE;2935.0,1748.5;null;http://seatplan.ust.hk/?room=LTC
+p96;LTB;lecture hall;LT B, lecture hall, LECTURE THEATRE;2709.5,1751.5;null;http://seatplan.ust.hk/?room=LTB
+p97;STAIR SC15;stair;;2833.5,1556.0;null;null
+p98;STAIR SC17;stair;STAIR SC17;3320.0,1452.5;null;null
+p99;STAIR SC16;stair;STAIR SC16;3320.0,1172.0;r505489537673609;null
+p100;LTH;lecture hall;LT H, lecture hall, LECTURE THEATRE;3644.0,894.5;null;http://seatplan.ust.hk/?room=LTH
+p101;ROOM 1511;classroom;ROOM 1511;3665.0,1108.0;null;http://seatplan.ust.hk/?room=1511
+p102;LIFT 27;lift;LIFT 27;3772.5,1147.5;null;null
+p103;LIFT 28;lift;LIFT 28;3772.0,1182.5;null;null
+p104;MALE TOILET;male toilet;MALE TOILET;3773.5,1237.0;null;null
+p105;STAIR SC18;stair;STAIR SC18;3849.5,1213.0;null;null
+p106;STAIR SC33;stair;STAIR SC33;3925.0,938.0;null;null
+p108;LIFT 29;lift;LIFT 29;4042.5,956.0;null;null
+p109;LIFT 30;lift;LIFT 30;4040.5,991.5;null;null
+p110;ROOM 1518;classroom;ROOM 1518;4030.5,876.5;null;null
+p111;ROOM 1520A;office;ROOM 1520A;3968.5,1066.0;null;null
+p112;ROOM 1520B;office;ROOM 1520B;3970.0,1151.0;null;null
+p113;ROOM 1520C;office;ROOM 1520C;3929.5,1242.5;null;null
+p114;ROOM 1523;office;ROOM 1523;3944.0,1351.5;null;null
+p115;ROOM 1523A;office;ROOM 1523A;3809.5,1328.5;null;null
+p116;STAIR SC34;stair;STAIR SC34;4040.5,1218.0;null;null
+p117;ROOM 1520E;office;ROOM 1520E;4042.0,1129.5;null;null
+p118;ROOM 1520D;office;ROOM 1520D;4040.0,1048.5;null;null
+p119;STAIR SC28;stair;STAIR SC28;4190.0,2033.5;null;null
+p120;STAIR SC29;stair;STAIR SC29;4156.0,2445.0;null;null
+p121;STAIR SC23;stair;STAIR SC23;3437.0,2019.0;null;null
+p122;LIFT 22;lift;LIFT 22;3493.0,2030.5;null;null
+p123;MALE TOILET;male toilet;MALE TOILET;3364.0,2008.0;null;null
+p124;STAIR SC22;stair;;3202.5,2008.0;null;null
+p125;ROOM 1212A;lab;ROOM 1212A;3145.5,2194.5;null;null
+p126;ROOM 1212;lab;ROOM 1212;3169.5,2139.5;null;null
+p127;ROOM 1209C;lab;ROOM 1209C;2914.5,2132.0;null;null
+p128;ROOM 1209B;lab;ROOM 1209B;3065.0,2136.5;null;null
+p129;ROOM 1209D;lab;ROOM 1209D;2973.5,1977.5;null;null
+p130;ROOM 1209A;lab;ROOM 1209A;3054.5,1978.5;null;null
+p131;ROOM 1208;lab;ROOM 1208;2869.5,1976.0;null;null
+p132;ROOM 1210;lab;ROOM 1210;2984.5,2224.5;null;null
+p133;ROOM 1211A;lab;;3052.5,2492.5;null;null
+p134;ROOM 1211;lab;;2986.0,2418.5;null;null
+p135;ROOM 1215;lab;ROOM 1215;3171.5,2301.5;null;null
+p136;LIFT 21;lift;LIFT 21;3190.5,2400.0;null;null
+p137;STAIR SC24;stair;STAIR SC24;3178.0,2445.0;null;null
+p138;FEMALE TOILET;female toilet;FEMALE TOILET;3178.0,2519.0;null;null
+p139;ROOM 1218;lab;ROOM 1218;3170.0,2584.0;null;null
+p140;ROOM 1221;;;3180.5,2794.0;null;null
+p141;ROOM 1222;lab;;3180.0,2833.5;null;null
+p142;ROOM 1223;lab;;3180.5,2875.0;null;null
+p143;ROOM 1224;lab;;3179.5,2918.0;null;null
+p144;ROOM 1225;lab;;3178.5,2959.5;null;null
+p145;ROOM 1227;lab;;3190.5,3053.5;null;null
+p146;ROOM 1228;lab;;3144.5,3054.0;null;null
+p147;ROOM 1229;lab;;3103.5,3052.0;null;null
+p148;ROOM 1230;lab;;3070.0,3052.0;null;null
+p149;ROOM 1231;lab;;3040.0,3053.5;null;null
+p150;ROOM 1232;lab;ROOM 1232;3008.5,3053.0;null;null
+p151;ROOM 1233;lab;ROOM 1233;2978.0,3054.0;null;null
+p152;ROOM 1213;lab;ROOM 1213;2982.5,2732.5;null;null
+p153;STAIR SC11;stair;;2469.5,2019.5;null;null
+p154;LIFT 19;lift;;2514.0,2033.0;null;null
+p155;ROOM 1207A;lab;;2610.5,2048.5;null;null
+p156;ROOM 1207B;lab;;2609.5,1986.5;null;null
+p157;ROOM 1207C;lab;;2802.0,2129.5;null;null
+p158;ROOM 1207;lab;ROOM 1207;2731.0,2068.0;null;null
+p159;ROOM 1206C;lab;ROOM 1206C;2834.0,2227.0;null;null
+p160;ROOM 1206B;lab;ROOM 1206B;2825.5,2325.5;null;null
+p161;ROOM 1206A;lab;;2824.5,2427.0;null;null
+p162;ROOM 1206;lab;;2679.5,2330.5;null;null
+p163;ROOM 1205;lab;;2833.5,2510.5;null;null
+p164;ROOM 1204;lab;;2833.0,2601.0;null;null
+p165;ROOM 1203A;lab;;2804.0,2694.5;null;null
+p166;ROOM 1203B;lab;ROOM 1203B;2804.0,2760.5;null;null
+p167;ROOM 1203C;lab;;2853.0,2730.5;null;null
+p168;ROOM 1203D;lab;;2852.0,2857.0;null;null
+p169;ROOM 1201-02;lab;ROOM 1201, ROOM 1202;2679.0,2691.0;null;null
+p170;LIFT 20;lift;;2465.0,2398.0;null;null
+p171;STAIR SC20;stair;;2483.5,2452.5;null;null
+p172;STAIR SC21;stair;;2467.0,2730.5;null;null
+p173;ROOM 1039;classroom;;2244.5,2826.0;null;null
+p174;ROOM 1043A;classroom;;2177.5,2808.75;null;null
+p175;ROOM 1043;classroom;;2117.5,2738.0;null;null
+p176;STAIR SC09;stair;STAIR SC09;2303.5,2729.0;null;null
+p177;ROOM 1038;classroom;;2304.5,2665.5;null;null
+p178;ROOM 1037;classroom;;2305.0,2625.0;null;null
+p179;ROOM 1036;classroom;;2312.5,2585.0;null;null
+p180;MALE TOILET;male toilet;MALE TOILET;3905.5,1186.0;null;null
+p181;STAIR SC12;stair;;2345.5,1170.0;null;null
+p182;ESCALATOR;escalator;;1815.5,1371.5;null;null
+p183;ESCALATOR;escalator;;1816.0,1412.0;null;null
+p184;STAIR;stair;;1841.0,1485.0;null;null
+p185;STAIR;stair;;515.5,860.0;null;null
+p186;DRINKING FOUNTAIN;drinking fountain;;322.5,1183.0;null;null
+p187;EXPRESS STATION;express station;;2022.0,1579.5;null;null
+p188;EXPRESS STATION;express station;;2042.5,1579.5;null;null
+p189;BANK OF CHINA ATM;ATM;BOC;2068.5,1575.0;r012787110528388;null
+p190;HANG SENG ATM;ATM;;2089.0,1577.5;null;null
+p191;EXPRESS STATION;express station;;2123.0,1365.5;null;null
+p192;EXPRESS STATION;express station;;2121.5,1566.5;null;null
+p193;MAILBOX;mailbox;;2542.0,905.0;null;null
+p194;EXPRESS STATION;express station;;2768.0,1599.0;null;null
+p195;DRINKING FOUNTAIN;drinking fountain;;2906.0,1020.5;null;null
+p196;DHL DROP OFF BOX;mailbox;MAILBOX;2887.0,949.0;null;null
+p197;COFFEE SHOP;restaurant;CAFE, DINNER, BREAKFAST, restaurant;3010.0,1321.5;r033014043295132;null
+p198;EXPRESS STATION;express station;;3048.0,1500.5;null;null
+p199;EXPRESS TATION;express station;;3044.5,1669.0;null;null
+p200;DRINKING FOUNTAIN;drinking fountain;;3131.5,1634.0;null;null
+p201;ESCALATOR;escalator;;3456.5,1528.0;null;null
+p202;ESCALATOR;escalator;;3459.0,1578.5;null;null
+p203;DRINKING FOUNTAIN;drinking fountain;;3739.5,1021.5;null;null
+p204;Academic Building Entrance  (near lift 25 - 26);cross building connector;;2826.0,721.5;null;Academic Building Entrance  (near lift 31- 32)
+p205;Academic Building Entrance  (near enterprise center);cross building connector;;3950.5,668.0;null;null
+p206;ROOM 1151A;;;3688.5,1384.5;null;null
+p207;ROOM 1018;;null;930.0,1803.25;null;null
+p208;ROOM 1017A;;null;793.0,1915.5;null;null
+p209;ROOM 1015;;null;919.0,1944.75;null;null
+p210;ROOM 1012;;null;646.0,2040.5;null;null
+p211;ROOM 1011;;null;622.5,2073.25;null;null
+p212;STAIR;stair;null;715.75,2033.0;null;null
+p213;ROOM 1010;;null;589.25,2111.5;null;null
+p214;ROOM 1009;;null;559.0,2165.0;null;null
+p215;ROOM 1006;;null;680.25,2251.5;null;null
+p216;ROOM 1005;;null;656.0,2301.0;null;null
+p217;ROOM 1004;;null;638.0,2357.75;null;null
+p218;ROOM 1001;;null;554.0,2445.0;null;null
+p219;ROOM 1002;;null;465.25,2477.5;null;null
+p220;ROOM 1401 - 1403;;1401,1402,1403;2669.5,1248.0;null;null
+p221;ARRO;office;ROOM 1381,Academic Records and Registration, Academic Registry, ARR;2049.0,1295.0;r290828283746267;null
+p222;Barn B, ROOM 1101;;ITSC PRINT SHOP;1906.0,1688.0;null;null
+p223;ROOM 1103;;;2005.25,1831.0;null;null
+p224;ROOM 1104;;;2123.0,1819.5;null;null
+p225;Female Toilet;female toilet;;2126.0,1628.5;null;null
+p226;Male Toilet;male toilet;;2130.0,1696.0;null;null

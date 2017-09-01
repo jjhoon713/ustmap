@@ -5,3 +5,5 @@ https://github.com/js-cookie/js-cookie
 materialize
 
 google icon
+
+https://github.com/googlemaps/js-map-label

@@ -1,3 +1,3 @@
 # ustmapweb
 
-https://jjhoon713.github.io/ustmap/
+http://jchungaa.student.ust.hk/ustmap/
